@@ -1,0 +1,20 @@
+{
+  "full_mae": 0.010271367535998022,
+  "full_rmse": 0.07820753818135734,
+  "unqueried_mae": 0.07013516605868589,
+  "unqueried_rmse": 0.2043630592631377,
+  "top1_agreement": 0.952437106918239,
+  "top3_overlap": 0.8939989517819705,
+  "ndcg_at_3": 0.9607266647208903,
+  "pairwise_ranking_accuracy": 0.9166629785350742,
+  "vbs_regret": 0.012433931206102571,
+  "policy": "hybrid_b50",
+  "budget_hours": 75.0,
+  "fold": 4,
+  "seed": 1,
+  "queried_cells": 15200,
+  "queried_fraction": 0.8535489667565139,
+  "realized_runtime_seconds": 270028.54177040583,
+  "realized_runtime_hours": 75.00792826955717,
+  "budget_overshoot_seconds": 28.54177040583454
+}
