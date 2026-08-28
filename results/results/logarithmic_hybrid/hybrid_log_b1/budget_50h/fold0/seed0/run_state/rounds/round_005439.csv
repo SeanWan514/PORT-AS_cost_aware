@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5618,5439,4494,642,2ji6_TPW_B_1566,0,surfdock,True,False,0.76216963,1.0041839,5.0727348,0,12184,9286.2747,0,4.8316653

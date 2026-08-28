@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10478,10299,7324,1046,4bdr_KAI_B_900,2,diffdock,True,True,0.63681023,0.58296435,23.758371,0,3296,2098.9265,0.99597414,26.733831

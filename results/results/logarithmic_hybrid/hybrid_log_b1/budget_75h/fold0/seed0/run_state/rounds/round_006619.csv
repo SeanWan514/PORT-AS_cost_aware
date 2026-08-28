@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6798,6619,2419,345,1sjc_SMG_A_1000,4,gnina,False,True,0.5509991,1.1308328,4.0530686,0,11004,6063.1941,0.22523458,5.0078313

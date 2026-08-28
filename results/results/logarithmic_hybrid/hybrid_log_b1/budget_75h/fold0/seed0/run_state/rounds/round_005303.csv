@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5482,5303,158,22,1axg_ETF_C_404,4,gnina,False,True,0.52870375,1.3761591,2.285696,0,12320,6513.6302,0.92264914,3.4096305

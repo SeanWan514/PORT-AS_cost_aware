@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9508,9329,2414,344,1sff_IK2_C_450,6,smina,False,True,0.39577045,0.99642081,2.8714361,0,8294,3282.5202,0,5.9607764

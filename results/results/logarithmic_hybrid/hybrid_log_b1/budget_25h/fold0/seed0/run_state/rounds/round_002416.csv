@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2595,2416,1525,217,1l5o_2MP_A_990,6,smina,False,True,0.34318746,0.86872877,0.89289504,0,15207,5218.8518,0,0.5097731

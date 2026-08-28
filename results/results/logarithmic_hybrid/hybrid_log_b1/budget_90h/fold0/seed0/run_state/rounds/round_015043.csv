@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+15222,15043,5022,717,2qim_ZEA_A_161,3,diffdock_l,False,True,0.13027774,0.56999222,20.216881,0,2305,300.2902,1.395384e-06,18.483359

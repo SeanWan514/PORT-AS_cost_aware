@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8581,8402,13411,1915,5tbo_78Z_A_1001,6,smina,False,True,0.40970862,1.4038084,1.9514927,0,9221,3777.9232,0,5.8918649

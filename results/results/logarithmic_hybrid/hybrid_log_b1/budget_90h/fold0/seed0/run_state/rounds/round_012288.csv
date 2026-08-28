@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+12467,12288,2691,384,1u2o_NEC_A_1001,3,diffdock_l,False,True,0.29682289,0.56870016,28.069456,0,4133,1226.769,0.98867822,28.369741

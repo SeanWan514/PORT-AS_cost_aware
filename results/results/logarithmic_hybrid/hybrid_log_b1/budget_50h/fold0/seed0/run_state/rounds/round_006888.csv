@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7067,6888,6243,891,3sli_SKD_A_760,6,smina,False,True,0.38569664,1.0647794,1.8945163,0,10735,4140.4535,0,2.4848865

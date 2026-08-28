@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6990,6811,4358,622,2ij7_TPF_C_2471,4,gnina,True,False,0.48497853,1.0340058,5.9364524,0,10812,5243.5878,1.7637408e-05,7.9070183

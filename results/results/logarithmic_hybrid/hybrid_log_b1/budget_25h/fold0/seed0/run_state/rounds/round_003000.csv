@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3179,3000,9554,1364,4ovl_1TD_A_308,6,smina,False,True,0.59478469,1.1117879,1.3508468,0,14623,8697.5365,0,1.8726454

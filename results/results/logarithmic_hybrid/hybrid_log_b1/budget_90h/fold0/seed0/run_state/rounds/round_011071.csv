@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11250,11071,7390,1055,4bvh_OCZ_B_1392,5,autodock,False,True,0.28926299,0.67627848,16.732222,0,6552,1895.2511,0,168.92538

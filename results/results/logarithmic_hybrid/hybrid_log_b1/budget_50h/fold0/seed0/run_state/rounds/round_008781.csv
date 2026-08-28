@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8960,8781,10674,1524,4zsy_RW2_A_502,6,smina,False,True,0.36223529,1.0270896,3.9387679,0,8842,3202.8845,8.2692632e-06,6.6981951

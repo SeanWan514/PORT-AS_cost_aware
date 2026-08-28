@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+14940,14761,7513,1073,4cjw_CBJ_A_1215,2,diffdock,False,True,0.17557228,0.56182007,26.597092,0,328,57.587707,0,26.235489

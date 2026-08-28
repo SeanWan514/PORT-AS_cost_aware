@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7260,7081,11718,1674,5faj_DCS_D_401,0,surfdock,False,True,0.54297911,0.71732989,5.9361339,0,9509,5163.1884,0,3.8993945

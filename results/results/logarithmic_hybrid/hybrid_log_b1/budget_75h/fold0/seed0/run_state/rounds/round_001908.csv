@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2087,1908,1449,207,1kuj_MMA_A_501,0,surfdock,True,True,0.7563363,1.2516265,3.475091,0,15715,11885.825,0.97735509,4.4967705

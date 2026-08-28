@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9386,9207,16209,2315,6nba_P1T_A_501,4,gnina,False,True,0.45601716,0.98390805,5.4907761,0,8416,3837.8404,0.98245257,7.5396858

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3972,3793,2715,387,1uay_ADN_A_1001,6,smina,False,True,0.49712815,1.02289,1.5655223,0,13830,6875.2823,0.98503771,2.3848195

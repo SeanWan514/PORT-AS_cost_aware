@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10550,10371,13341,1905,5r28_RDJ_A_401,6,smina,False,True,0.30610153,1.1681444,1.4988085,0,7252,2219.8483,0.00024046419,2.5094897

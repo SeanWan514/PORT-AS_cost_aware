@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10003,9824,2855,407,1vzu_UDP_B_2371,6,smina,False,True,0.43297396,1.1406843,2.6496773,0,7799,3376.7639,0,6.0248461

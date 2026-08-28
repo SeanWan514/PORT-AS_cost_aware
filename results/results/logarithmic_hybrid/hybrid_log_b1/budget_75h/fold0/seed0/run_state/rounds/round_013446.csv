@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+13625,13446,7017,1002,3zwt_KFZ_A_1401,3,diffdock_l,False,True,0.22704775,0.56914847,25.917934,0,1596,362.36821,0.10022034,54.776381

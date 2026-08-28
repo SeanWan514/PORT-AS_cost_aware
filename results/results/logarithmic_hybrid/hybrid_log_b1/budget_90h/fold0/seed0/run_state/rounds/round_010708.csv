@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10887,10708,3373,481,1zwp_NIM_A_401,6,smina,False,True,0.27654839,1.0316666,1.8944553,0,6915,1912.3321,0,3.1925383

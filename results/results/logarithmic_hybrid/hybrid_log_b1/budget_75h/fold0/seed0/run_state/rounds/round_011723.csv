@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11902,11723,3377,482,227l_BNZ_A_169,3,diffdock_l,False,True,0.26324489,0.60634211,17.475834,0,4955,1304.3784,0.99750473,34.4084

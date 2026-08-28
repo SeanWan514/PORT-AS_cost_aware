@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+13694,13515,6337,905,3tye_XTZ_A_801,2,diffdock,True,False,0.2681894,0.56042119,35.877464,0,2328,624.34492,0.96321101,34.142775

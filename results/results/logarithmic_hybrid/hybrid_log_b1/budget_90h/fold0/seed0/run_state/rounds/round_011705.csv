@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11884,11705,16466,2352,6ooi_PGA_E_301,2,diffdock,True,True,0.66082893,0.61346616,23.639961,0,5509,3640.5066,0,35.736578

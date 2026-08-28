@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9261,9082,664,94,1giu_ADE_A_300,6,smina,False,True,0.30746656,1.3500577,1.0019944,0,8541,2626.0719,0.0500229,0.67378554

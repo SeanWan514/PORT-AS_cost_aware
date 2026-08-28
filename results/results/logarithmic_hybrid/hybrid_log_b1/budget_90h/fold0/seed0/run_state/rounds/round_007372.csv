@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7551,7372,6003,857,2zwt_CAM_A_422,4,gnina,True,False,0.43396574,1.3183024,2.7068114,0,10251,4448.5828,0.046702397,1.7606722

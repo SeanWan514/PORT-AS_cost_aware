@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1246,1067,2339,334,1rvz_NAG_A_3321,1,unimol,True,False,0.75222377,0.62871355,20.225428,0,15262,11480.439,0,30.77

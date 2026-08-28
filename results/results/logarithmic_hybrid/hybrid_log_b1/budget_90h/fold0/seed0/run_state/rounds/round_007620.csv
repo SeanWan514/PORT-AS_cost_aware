@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7799,7620,15406,2200,6g5q_EMZ_B_402,6,smina,False,True,0.33847053,1.4416855,1.9625183,0,10003,3385.7207,8.56782e-10,1.3060261

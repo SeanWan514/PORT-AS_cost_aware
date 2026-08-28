@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+13704,13525,6704,957,3wat_BMA_A_404,5,autodock,False,True,0.19248248,0.57501216,13.726181,0,4098,788.79321,0.016414696,16.866589

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10118,9939,1259,179,1jho_RMB_A_990,6,smina,False,True,0.28527253,0.97186085,2.1939821,0,7684,2192.0341,0,4.0386781

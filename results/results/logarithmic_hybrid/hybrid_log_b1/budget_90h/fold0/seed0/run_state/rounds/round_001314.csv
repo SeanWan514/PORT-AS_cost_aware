@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1493,1314,1617,231,1luq_BTN_B_5200,0,surfdock,False,True,0.52778495,1.1087738,2.7583017,0,16309,8607.6448,0.98717775,3.311904

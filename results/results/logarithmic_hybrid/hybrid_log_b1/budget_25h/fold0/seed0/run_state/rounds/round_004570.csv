@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+4749,4570,7468,1066,4can_M7K_B_800,6,smina,False,True,0.33621257,0.81954136,1.9983654,0,13053,4388.5827,0,4.1645538

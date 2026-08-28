@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+4716,4537,17458,2494,6wdv_TWM_A_701,0,surfdock,True,False,0.64553819,1.2751916,3.4527788,0,13086,8447.5128,0.9648928,3.7267135

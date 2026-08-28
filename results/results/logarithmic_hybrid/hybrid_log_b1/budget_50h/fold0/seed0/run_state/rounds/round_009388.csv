@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9567,9388,17210,2458,6to7_SUV_A_401,4,gnina,False,True,0.41174148,0.92546633,6.6749754,0,8235,3390.6911,0.9977419,5.8757869

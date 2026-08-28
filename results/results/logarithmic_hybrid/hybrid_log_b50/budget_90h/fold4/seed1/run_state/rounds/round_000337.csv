@@ -1,0 +1,6 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+16968,337,226,32,1cgk_NAR_A_390,2,diffdock,True,True,0.52567769,0.60712716,33.684338,0,3,1.5770331,0.95975163,25.883515
+16969,337,8535,1219,4hez_1MZ_A_306,2,diffdock,False,True,0.055888456,0.58146542,12.883969,0,8,0.44710765,1.005911e-28,12.953227
+16970,337,2508,358,1qmh_CIT_A_401,2,diffdock,False,True,0.087814187,0.5836273,20.53249,0,5,0.43907094,0.0052693629,28.111115
+16971,337,8136,1162,4e7v_CRS_1_101,2,diffdock,False,True,0.084647139,0.5733091,20.43272,0,5,0.4232357,1.293524e-70,21.128393
+16972,337,8528,1218,4hez_1MZ_A_304,2,diffdock,False,True,0.049254684,0.55608992,12.305642,0,8,0.39403747,7.9827288e-07,14.341101

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+15424,15245,4037,576,2fcu_AKG_B_898,5,autodock,False,True,0.11463318,0.57704654,13.232995,0,2378,272.59771,0.00022702527,15.26698

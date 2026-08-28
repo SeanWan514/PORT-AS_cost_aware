@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1096,917,41,5,1a9r_HPA_A_290,6,smina,False,True,0.6612817,1.2497715,0.92942792,0,16706,11047.372,0.22012759,0.5928253

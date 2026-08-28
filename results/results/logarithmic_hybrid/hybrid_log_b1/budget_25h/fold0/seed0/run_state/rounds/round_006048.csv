@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6227,6048,5424,774,2w7k_PLP_A_501,6,smina,False,True,0.26755943,0.82126721,2.6661553,0,11575,3097.0004,4.3136047e-05,7.313946

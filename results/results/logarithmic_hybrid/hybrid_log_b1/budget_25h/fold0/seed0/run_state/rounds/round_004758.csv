@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+4937,4758,2253,321,1q4g_BFL_B_1701,6,smina,False,True,0.56698207,0.95031463,2.0244129,0,12865,7294.2243,0,1.5874746

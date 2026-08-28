@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8946,8767,4479,639,2jhp_GUN_A_1647,6,smina,False,True,0.33829672,0.9894907,1.0191731,0,8856,2995.9557,0.20526832,0.64738315

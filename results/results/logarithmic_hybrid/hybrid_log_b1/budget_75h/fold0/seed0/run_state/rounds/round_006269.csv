@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6448,6269,7328,1046,4bdr_KAI_B_900,6,smina,False,True,0.5531111,1.4114371,1.6471083,0,11354,6280.0235,0.98536359,2.2062522

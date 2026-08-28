@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+226,47,15561,2223,6hnz_GH5_A_301,0,surfdock,False,True,0.8238967,1.1565338,5.2034335,0,16534,13622.308,0.97526871,4.2329427

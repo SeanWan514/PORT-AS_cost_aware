@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6067,5888,17793,2541,8cpp_TCM_A_422,6,smina,False,True,0.30527743,1.0511151,0.96443045,0,11735,3582.4306,0,0.57924401

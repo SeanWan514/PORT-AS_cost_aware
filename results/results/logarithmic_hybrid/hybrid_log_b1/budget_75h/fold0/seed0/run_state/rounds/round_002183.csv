@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2362,2183,15694,2242,6jea_NAG_A_501,0,surfdock,False,True,0.55743055,1.1741643,2.6224129,0,15440,8606.7276,0,2.8826307

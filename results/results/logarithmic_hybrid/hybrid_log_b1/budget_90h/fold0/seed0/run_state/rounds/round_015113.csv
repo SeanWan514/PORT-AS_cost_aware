@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+15292,15113,6127,875,3ro7_TDR_A_300,2,diffdock,True,True,0.54623346,0.73044266,19.635115,0,2292,1251.9671,0,13.649706

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9509,9330,2274,324,1q92_DRM_A_1001,6,smina,False,True,0.4597383,1.2862919,2.0167656,0,8293,3812.6097,0,2.3170032

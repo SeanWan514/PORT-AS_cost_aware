@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10919,10740,7489,1069,4cdt_M48_A_801,6,smina,False,True,0.27164417,0.99261028,2.1417124,0,6883,1869.7268,0,5.0473018

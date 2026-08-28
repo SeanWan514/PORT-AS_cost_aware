@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+13060,12881,16763,2394,6qqs_JCZ_A_301,5,autodock,False,True,0.60309504,0.69921906,14.255656,0,194,117.00044,0,25.535669

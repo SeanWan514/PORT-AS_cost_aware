@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11800,11621,6183,883,3ryd_SRT_A_267,2,diffdock,False,True,0.27693805,0.63139217,20.204906,0,4390,1215.7581,0,21.301368

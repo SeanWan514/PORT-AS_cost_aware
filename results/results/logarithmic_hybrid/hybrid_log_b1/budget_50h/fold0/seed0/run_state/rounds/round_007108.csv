@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7287,7108,6068,866,3qhd_MSR_A_166,6,smina,False,True,0.28703451,1.0661067,1.3321398,0,10515,3018.1679,0,0.78437588

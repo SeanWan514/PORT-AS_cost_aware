@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5116,4937,15330,2190,6flu_DTK_B_406,0,surfdock,True,False,0.6202439,1.2961718,3.2483041,0,12686,7868.4141,0.11624599,3.2869045

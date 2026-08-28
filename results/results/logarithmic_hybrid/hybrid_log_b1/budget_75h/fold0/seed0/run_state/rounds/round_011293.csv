@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11472,11293,1062,151,1ij8_BNI_B_502,5,autodock,False,True,0.23359047,0.65542562,18.015635,0,5256,1227.7515,0,6.6423356

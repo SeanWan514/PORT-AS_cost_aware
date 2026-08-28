@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10979,10800,4976,710,2qd4_CHD_B_928,6,smina,False,True,0.28127433,0.99268134,3.0251758,0,6823,1919.1348,0,4.4831818

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+4039,3860,13007,1858,5m66_ADN_A_502,1,unimol,True,False,0.68388879,0.593286,22.722876,0,11874,8120.4955,0.83674327,25.43

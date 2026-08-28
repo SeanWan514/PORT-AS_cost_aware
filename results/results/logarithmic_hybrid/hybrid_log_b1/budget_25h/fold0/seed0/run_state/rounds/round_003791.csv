@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3970,3791,9902,1414,4tq4_DMA_C_403,4,gnina,False,True,0.67650243,0.84629031,3.4561374,0,13832,9357.3817,0.0060718716,4.8860553

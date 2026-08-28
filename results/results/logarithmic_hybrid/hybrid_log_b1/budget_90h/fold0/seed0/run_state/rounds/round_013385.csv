@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+13564,13385,1168,166,1j0n_CEG_A_780,6,smina,False,True,0.17630998,0.57331863,2.1563327,0,4238,747.20171,0.00040304714,1.2520293

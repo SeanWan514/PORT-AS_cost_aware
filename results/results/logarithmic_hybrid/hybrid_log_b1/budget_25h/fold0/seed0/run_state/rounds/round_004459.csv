@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+4638,4459,16372,2338,6o04_DNA_C_603,6,smina,False,True,0.3405324,0.83466553,1.8210698,0,13164,4482.7685,0.00020066346,1.2665864

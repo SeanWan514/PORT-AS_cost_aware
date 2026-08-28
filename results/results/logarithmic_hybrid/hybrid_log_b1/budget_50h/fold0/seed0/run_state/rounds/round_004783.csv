@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+4962,4783,3821,545,2dcf_ACA_A_501,6,smina,True,True,0.84960531,1.3253055,1.545307,0,12840,10908.932,0.83433157,2.3821127

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+12245,12066,11728,1675,5fay_CHT_A_908,3,diffdock_l,False,True,0.26048237,0.58155019,23.695881,0,3331,867.66678,0.99600675,34.396791

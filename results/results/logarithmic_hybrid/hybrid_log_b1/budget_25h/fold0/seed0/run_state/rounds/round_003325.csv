@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3504,3325,2568,366,1tl2_NDG_A_238,6,smina,False,True,0.35407695,0.84838722,1.2561924,0,14298,5062.5923,0.98017502,1.1909251

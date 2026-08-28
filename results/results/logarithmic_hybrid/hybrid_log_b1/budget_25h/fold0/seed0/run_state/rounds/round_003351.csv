@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3530,3351,8861,1265,4jhh_H35_A_201,6,smina,False,True,0.31162728,0.82700929,1.3506278,0,14272,4447.5445,0.98798569,1.5245426

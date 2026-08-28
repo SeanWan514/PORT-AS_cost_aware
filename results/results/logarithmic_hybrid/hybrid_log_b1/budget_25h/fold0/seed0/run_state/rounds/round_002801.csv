@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2980,2801,3210,458,1zei_CRS_E_55,4,gnina,False,True,0.66587414,0.93526651,2.5862625,0,14822,9869.5866,9.8062974e-06,1.8737316

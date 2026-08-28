@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+784,605,10458,1494,4yu7_DHC_A_203,0,surfdock,False,True,0.57139735,1.0658913,3.5037601,0,17018,9724.0402,0.43601167,2.4348103

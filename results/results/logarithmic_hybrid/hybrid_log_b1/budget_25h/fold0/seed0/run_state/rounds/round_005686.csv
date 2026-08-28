@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5865,5686,10402,1486,4xzh_48I_B_402,0,surfdock,False,True,0.56303675,0.77559025,4.6251841,0,11937,6720.9697,0.99490213,3.931736

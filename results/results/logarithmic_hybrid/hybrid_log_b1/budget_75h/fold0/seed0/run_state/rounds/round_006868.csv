@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7047,6868,15481,2211,6hgl_TES_A_401,4,gnina,False,True,0.49145056,1.0303626,3.9635673,0,10755,5285.5507,0.99569856,2.002373

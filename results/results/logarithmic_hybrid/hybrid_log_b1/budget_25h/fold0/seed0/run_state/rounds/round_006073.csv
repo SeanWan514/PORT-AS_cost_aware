@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6252,6073,5200,742,2tmk_ATM_A_217,6,smina,False,True,0.31390061,0.80163578,2.9252772,0,11550,3625.552,0,5.3804232

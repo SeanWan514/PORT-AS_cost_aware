@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+12265,12086,8297,1185,4gy9_ZIP_A_201,2,diffdock,True,True,0.62853665,0.62414333,21.670319,0,3622,2276.5598,0.92142292,14.141184

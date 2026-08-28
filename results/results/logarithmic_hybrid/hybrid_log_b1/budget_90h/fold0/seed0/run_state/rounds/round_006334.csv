@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6513,6334,4911,701,2qca_DGP_A_300,4,gnina,True,False,0.66903644,1.1982759,3.9742341,0,11289,7552.7523,0.22357045,3.9196784

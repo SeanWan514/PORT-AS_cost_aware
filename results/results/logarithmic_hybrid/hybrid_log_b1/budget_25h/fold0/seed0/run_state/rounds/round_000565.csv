@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+744,565,3378,482,227l_BNZ_A_169,4,gnina,False,True,0.43959902,1.0238149,1.645341,0,17058,7498.6801,2.3666409e-05,1.8881698

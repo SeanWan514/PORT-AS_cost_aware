@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1705,1526,4662,666,2o7b_HC4_G_701,0,surfdock,False,True,0.53736556,0.9334183,3.0654342,0,16097,8649.9733,0.99643873,3.0117049

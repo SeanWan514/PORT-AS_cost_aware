@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+13680,13501,11325,1617,5die_5CJ_A_601,6,smina,False,True,0.17362884,0.58835107,3.1910715,0,4122,715.69809,0,2.6942456

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10047,9868,3551,507,2bdg_PBZ_A_301,2,diffdock,True,True,0.70260007,0.63811514,18.267208,0,4815,3383.0193,0,16.063504

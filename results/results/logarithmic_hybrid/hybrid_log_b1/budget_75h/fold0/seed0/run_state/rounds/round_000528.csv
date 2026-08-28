@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+707,528,14826,2118,6btq_E8S_A_305,0,surfdock,False,True,0.51992689,1.0721566,2.6433411,0,17095,8888.1502,0,3.3289807

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6679,6500,6227,889,3sj1_DXC_X_75,4,gnina,False,True,0.55642364,1.1545526,3.9090955,0,11123,6189.1002,0,3.408633

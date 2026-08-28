@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1902,1723,10504,1500,4z1d_PEP_B_300,4,gnina,False,True,0.54907507,0.98605054,2.8404362,0,15900,8730.2936,0.04670795,1.8748734

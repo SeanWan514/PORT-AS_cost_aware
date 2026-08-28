@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7709,7530,14790,2112,6bkk_308_B_101,6,smina,False,True,0.37393425,0.93825921,1.2626631,0,10093,3774.1184,0,0.53088782

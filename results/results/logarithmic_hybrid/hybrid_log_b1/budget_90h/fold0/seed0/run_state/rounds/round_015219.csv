@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+15398,15219,1403,200,1kep_TDX_A_3500,3,diffdock_l,False,True,0.1222399,0.58586367,18.526508,0,2293,280.29609,1.5621166e-45,44.936874

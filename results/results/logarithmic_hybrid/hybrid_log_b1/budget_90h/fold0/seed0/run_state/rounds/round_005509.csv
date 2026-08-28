@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5688,5509,12499,1785,5ita_6DC_A_801,4,gnina,True,False,0.57568806,1.1741506,4.3247862,0,12114,6973.8851,0.99488663,7.2551825

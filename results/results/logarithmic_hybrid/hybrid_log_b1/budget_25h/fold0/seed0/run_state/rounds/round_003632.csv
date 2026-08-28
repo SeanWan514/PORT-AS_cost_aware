@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3811,3632,13080,1868,5mzp_CFF_A_2401,4,gnina,False,True,0.46951567,0.82741039,2.5976074,0,13991,6568.9937,0.040571855,1.6443486

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11233,11054,3589,512,2bgc_DTT_F_1238,5,autodock,False,True,0.29522666,0.68106139,16.481087,0,6569,1939.3439,0.037766753,11.692941

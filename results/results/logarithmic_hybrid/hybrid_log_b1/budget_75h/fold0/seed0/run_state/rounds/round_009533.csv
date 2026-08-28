@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9712,9533,8250,1178,4ghf_4NC_D_402,4,gnina,False,True,0.38730607,1.0108259,4.0880885,0,8090,3133.3061,0,5.7387673

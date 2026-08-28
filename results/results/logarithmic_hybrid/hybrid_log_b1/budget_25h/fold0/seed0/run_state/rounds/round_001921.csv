@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2100,1921,6,0,19gs_BSP_B_210,6,smina,False,True,0.33144747,0.83922917,0.68019325,0,15702,5204.3882,2.9078849e-06,0.67157019

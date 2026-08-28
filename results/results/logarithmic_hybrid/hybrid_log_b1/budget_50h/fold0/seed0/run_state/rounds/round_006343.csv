@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6522,6343,10952,1564,5agl_CCW_B_800,4,gnina,False,True,0.66015256,1.0555431,3.6316502,0,11280,7446.5208,0.12736723,4.1361795

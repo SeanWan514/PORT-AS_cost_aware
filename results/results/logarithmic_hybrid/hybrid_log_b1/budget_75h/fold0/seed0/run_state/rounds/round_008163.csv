@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8342,8163,3653,521,2bxh_IOS_B_1002,6,smina,False,True,0.44171066,0.99939315,1.3967332,0,9460,4178.5829,2.0482927e-07,1.2731309

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5761,5582,5382,768,2vsu_V55_D_1251,6,smina,False,True,0.49427491,1.1075329,1.6312333,0,12041,5951.5642,1.9703024e-07,1.38022

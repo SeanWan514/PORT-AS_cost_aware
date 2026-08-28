@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7284,7105,3030,432,1xin_XYL_D_397,6,smina,False,True,0.30673533,1.0664102,1.6820511,0,10518,3226.2422,0.0038490129,1.1568895

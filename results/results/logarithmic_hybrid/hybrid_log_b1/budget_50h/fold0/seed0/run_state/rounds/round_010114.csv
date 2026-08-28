@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10293,10114,163,23,1axg_ETF_D_404,2,diffdock,False,True,0.27892317,0.60911932,20.340425,0,4059,1132.1492,0,28.00086

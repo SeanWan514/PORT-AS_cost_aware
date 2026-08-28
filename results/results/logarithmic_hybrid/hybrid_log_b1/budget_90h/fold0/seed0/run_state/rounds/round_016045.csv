@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+16224,16045,4752,678,2pin_LEG_B_502,6,smina,False,True,0.042885383,0.62574759,1.6618004,0,1578,67.673134,0,2.154753

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+361,182,119,17,1anc_BEN_A_384,0,surfdock,False,True,0.5543445,1.1387042,1.731778,0,17441,9668.3224,0.010602554,1.9715919

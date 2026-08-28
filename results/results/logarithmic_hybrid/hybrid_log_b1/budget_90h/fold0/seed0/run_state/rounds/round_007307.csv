@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7486,7307,2916,416,1w78_PD8_A_1421,4,gnina,True,False,0.43771148,1.0983095,4.7916474,0,10316,4515.4317,0.93497985,4.886537

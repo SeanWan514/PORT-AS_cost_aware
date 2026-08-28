@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7754,7575,14958,2136,6cut_FEJ_C_401,6,smina,False,True,0.2978283,0.74398874,4.9054103,0,10048,2992.5788,0.98439731,5.3208214

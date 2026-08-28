@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10335,10156,12739,1819,5joy_6LW_B_602,6,smina,False,True,0.31814205,1.1315744,1.2775232,0,7467,2375.5667,5.1831319e-06,0.95954686

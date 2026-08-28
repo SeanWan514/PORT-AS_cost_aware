@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6979,6800,746,106,1h18_DTL_B_9009,4,gnina,False,True,0.49265529,1.0560098,3.7165349,0,10823,5332.0082,2.0181051e-06,4.4846193

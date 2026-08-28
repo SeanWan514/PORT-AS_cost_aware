@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1737,1558,309,44,1dna_CB3_B_602,1,unimol,True,False,0.68236088,0.52835514,26.5525,0,9343,6375.2977,0,29.86

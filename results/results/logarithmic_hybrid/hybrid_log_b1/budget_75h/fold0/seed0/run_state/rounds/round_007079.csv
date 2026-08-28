@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7258,7079,312,44,1dna_CB3_B_602,4,gnina,False,True,0.57313764,0.98099597,6.3879304,0,10544,6043.1632,0.037427377,9.647629

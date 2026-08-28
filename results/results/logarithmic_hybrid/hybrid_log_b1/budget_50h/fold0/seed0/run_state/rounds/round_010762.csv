@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10941,10762,685,97,1gsi_TMP_A_1210,6,smina,False,True,0.19761407,0.56111736,1.9119271,0,6861,1355.8302,0,5.1408372

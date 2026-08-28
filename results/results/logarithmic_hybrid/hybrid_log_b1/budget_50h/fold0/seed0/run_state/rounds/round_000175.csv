@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+354,175,6223,889,3sj1_DXC_X_75,0,surfdock,False,True,0.56791409,1.1392809,1.6906581,0,17448,9908.965,0.9831885,3.9414918

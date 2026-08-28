@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6109,5930,14137,2019,5x6r_7ZR_A_402,4,gnina,True,False,0.5511813,1.0925047,5.2383103,0,11693,6444.963,3.095097e-09,6.2468358

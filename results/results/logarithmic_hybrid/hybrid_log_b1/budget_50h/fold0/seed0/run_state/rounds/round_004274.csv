@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+4453,4274,5704,814,2y4j_LAC_B_400,6,smina,False,True,0.33292075,0.95758157,1.0104468,0,13349,4444.1591,5.3116648e-05,0.59849242

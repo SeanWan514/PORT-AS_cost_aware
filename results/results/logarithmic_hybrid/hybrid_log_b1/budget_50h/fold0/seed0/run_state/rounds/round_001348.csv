@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1527,1348,3353,479,1zuw_DGL_B_2301,0,surfdock,False,True,0.52915517,0.93848071,3.1066346,0,16275,8612.0005,0.0010481364,2.8044692

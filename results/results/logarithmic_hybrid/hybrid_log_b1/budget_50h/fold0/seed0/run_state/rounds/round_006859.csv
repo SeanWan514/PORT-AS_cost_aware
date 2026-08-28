@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7038,6859,17770,2538,7joc_ARZ_A_302,4,gnina,True,True,0.69360866,1.1097465,3.7392871,0,10764,7466.0036,0.96316359,3.0039637

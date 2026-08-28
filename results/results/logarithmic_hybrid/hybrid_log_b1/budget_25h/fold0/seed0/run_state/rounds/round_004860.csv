@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5039,4860,2762,394,1uxi_FUM_A_1311,4,gnina,False,True,0.45600451,0.80661674,2.3758159,0,12763,5819.9856,0.86098064,1.8001216

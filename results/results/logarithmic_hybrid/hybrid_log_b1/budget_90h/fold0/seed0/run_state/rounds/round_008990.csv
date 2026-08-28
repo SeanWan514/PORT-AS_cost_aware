@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9169,8990,4857,693,2q28_TPP_B_5001,6,smina,False,True,0.55712388,1.2231655,2.8901076,0,8633,4809.6505,0.93246613,8.488011

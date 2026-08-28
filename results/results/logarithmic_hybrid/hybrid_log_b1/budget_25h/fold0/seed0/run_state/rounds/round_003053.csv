@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3232,3053,4290,612,2hi4_BHF_A_800,6,smina,False,True,0.5959154,1.0977917,1.4433806,0,14570,8682.4873,0,1.405068

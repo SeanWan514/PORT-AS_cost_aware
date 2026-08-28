@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11936,11757,11125,1589,5cak_4Z9_A_802,2,diffdock,False,True,0.27323047,0.60060049,22.289211,0,5781,1579.5453,0.92669893,34.056342

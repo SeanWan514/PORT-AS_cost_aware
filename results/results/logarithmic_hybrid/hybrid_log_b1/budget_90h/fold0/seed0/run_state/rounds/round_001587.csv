@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1766,1587,280,40,1d7a_AIR_D_450,0,surfdock,True,True,0.71034103,1.2277955,3.6980836,0,16036,11391.029,0.97994517,3.3899028

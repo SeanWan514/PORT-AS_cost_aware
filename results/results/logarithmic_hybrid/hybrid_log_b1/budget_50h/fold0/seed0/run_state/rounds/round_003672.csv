@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3851,3672,16906,2415,6rgr_RM4_A_402,1,unimol,True,False,0.78176782,0.64171592,16.619204,0,9179,7175.8468,0.94657568,16.28

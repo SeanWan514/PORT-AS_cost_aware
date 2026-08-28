@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11320,11141,12311,1758,5i0d_GLC_B_1122,5,autodock,False,True,0.2401311,0.67878173,15.933234,0,6190,1486.4115,0,61.492049

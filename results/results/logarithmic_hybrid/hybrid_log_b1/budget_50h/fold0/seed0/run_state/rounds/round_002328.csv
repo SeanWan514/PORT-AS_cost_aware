@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2507,2328,13040,1862,5mdh_MAK_A_335,6,smina,False,True,0.49687355,1.0403163,0.93390113,0,15295,7599.681,0.50891523,0.68769853

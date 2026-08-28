@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3989,3810,6969,995,3zjq_NCA_B_300,4,gnina,False,True,0.47716097,0.94073036,2.3437717,0,13813,6591.0245,5.9838391e-06,1.6563206

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7558,7379,5201,743,2tmk_ATM_B_217,0,surfdock,False,True,0.65717976,1.0589468,3.9833043,0,10244,6732.1495,0.99067127,3.9458169

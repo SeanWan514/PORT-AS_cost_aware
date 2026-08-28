@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1760,1581,13566,1938,5tzr_MLI_A_2403,0,surfdock,False,True,0.54170177,0.88129539,2.7695143,0,16042,8689.9798,0.97586197,2.1853968

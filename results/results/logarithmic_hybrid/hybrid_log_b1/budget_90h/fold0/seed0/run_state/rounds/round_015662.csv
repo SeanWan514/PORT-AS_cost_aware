@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+15841,15662,11440,1634,5dzh_5KG_A_900,2,diffdock,True,False,0.15420038,0.55811062,40.297165,0,775,119.5053,2.2726261e-38,31.761353

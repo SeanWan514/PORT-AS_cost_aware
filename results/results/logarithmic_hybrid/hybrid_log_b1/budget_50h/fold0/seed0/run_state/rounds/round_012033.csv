@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+12212,12033,6194,884,3ryd_SRT_A_271,6,smina,False,True,0.14561493,0.57474489,1.3797613,0,5590,813.98744,7.8617525e-08,1.0627979

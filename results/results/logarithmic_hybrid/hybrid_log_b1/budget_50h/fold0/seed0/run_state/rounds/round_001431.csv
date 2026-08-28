@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1610,1431,11193,1599,5cmb_GLY_A_301,0,surfdock,False,True,0.5364131,0.934406,3.092871,0,16192,8685.6009,0,2.1297035

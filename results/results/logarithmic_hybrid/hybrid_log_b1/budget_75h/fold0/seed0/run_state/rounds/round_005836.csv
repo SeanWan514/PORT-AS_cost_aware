@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6015,5836,2538,362,1tiw_TFB_A_2002,4,gnina,False,True,0.5355652,1.2990912,2.4227235,0,11787,6312.707,0.46832062,1.7718881

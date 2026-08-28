@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9217,9038,17070,2438,6sxr_KHP_A_513,4,gnina,False,True,0.4331182,0.97350655,3.2648988,0,8585,3718.3197,0.97360822,3.1340212

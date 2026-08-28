@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7736,7557,9937,1419,4tsk_TLA_A_404,4,gnina,False,True,0.46333474,0.94344626,2.7300301,0,10066,4663.9275,0.0015403094,1.8412924

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8607,8428,4226,603,2gnm_MAN_A_253,5,autodock,True,False,0.76122068,0.68912333,16.593985,0,9195,6999.4241,0.95776925,18.385597

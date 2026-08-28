@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7158,6979,10217,1459,4ws1_URF_A_301,4,gnina,True,False,0.46566843,1.3404032,2.6762979,0,10644,4956.5748,3.8771334e-07,1.4220731

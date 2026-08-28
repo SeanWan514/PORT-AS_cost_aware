@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8574,8395,17526,2503,6xp1_T2C_A_401,5,autodock,True,False,0.46720696,0.62358174,21.159323,0,9228,4311.3858,0,4.6995597

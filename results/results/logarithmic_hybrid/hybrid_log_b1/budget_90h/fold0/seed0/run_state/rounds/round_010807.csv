@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10986,10807,11801,1685,5fkl_TDC_A_222,6,smina,False,True,0.27565522,0.95419742,3.0694959,0,6816,1878.866,0,3.492366

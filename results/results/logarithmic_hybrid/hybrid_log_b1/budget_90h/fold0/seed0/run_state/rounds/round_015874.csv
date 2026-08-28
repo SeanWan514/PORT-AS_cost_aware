@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+16053,15874,6352,907,3tyn_CXW_A_800,3,diffdock_l,True,False,0.13324652,0.59710971,34.251266,0,772,102.86631,1.2791783e-37,44.127386

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3738,3559,10122,1446,4v36_LYN_A_1851,0,surfdock,False,True,0.56797635,0.82148816,3.3171835,0,14064,7988.0194,0,2.3904895

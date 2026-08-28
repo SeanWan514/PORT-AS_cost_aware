@@ -1,0 +1,4 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+16758,333,586,83,1fuq_CIT_A_1001,5,autodock,False,True,0.038492594,0.60917752,13.01659,0,4,0.15397038,0.0001074462,11.605246
+16759,333,14177,2025,5wgw_MB5_A_715,2,diffdock,False,True,0.072751945,0.62272117,26.276577,0,2,0.14550389,0,34.507641
+16760,333,9280,1325,4lz7_1YW_B_804,5,autodock,False,True,0.04417986,0.69246642,15.515272,0,3,0.13253958,0,5.1291355

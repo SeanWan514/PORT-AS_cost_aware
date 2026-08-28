@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2214,2035,9036,1290,4l4d_CAM_A_503,6,smina,False,True,0.30722078,0.83675942,0.72046983,0,15588,4788.9575,0,0.56537121

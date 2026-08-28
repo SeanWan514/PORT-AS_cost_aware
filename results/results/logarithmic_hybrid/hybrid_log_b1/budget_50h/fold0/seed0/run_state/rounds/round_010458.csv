@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10637,10458,3082,440,1y42_TYR_X_701,2,diffdock,True,True,0.67650257,0.61747356,20.856007,0,3575,2418.4967,0.9901192,23.084336

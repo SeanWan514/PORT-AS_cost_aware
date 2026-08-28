@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1615,1436,1624,232,1lzz_IHG_B_1830,0,surfdock,False,True,0.53667344,0.93630829,3.0732055,0,16187,8687.1331,0.87990769,2.3465166

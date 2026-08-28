@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+12401,12222,14272,2038,5xvv_AKG_B_506,6,smina,False,True,0.14369414,0.5731353,2.7842398,0,5401,776.09202,0.013092889,1.1854991

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+13228,13049,6176,882,3rsc_TYD_B_397,2,diffdock,True,False,0.29340935,0.55811062,34.47818,0,2766,811.57027,0,38.561658

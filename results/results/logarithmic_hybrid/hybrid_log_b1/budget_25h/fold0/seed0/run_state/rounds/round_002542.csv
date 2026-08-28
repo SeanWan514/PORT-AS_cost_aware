@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2721,2542,4708,672,2ot7_OGA_A_500,4,gnina,False,True,0.65342882,0.88620321,3.007961,0,15081,9854.36,0.00053726649,2.8955784

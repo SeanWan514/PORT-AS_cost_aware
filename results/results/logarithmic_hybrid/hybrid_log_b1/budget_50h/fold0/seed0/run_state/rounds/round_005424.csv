@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5603,5424,4332,618,2i1v_FDP_B_710,6,smina,False,True,0.49135434,1.0642155,1.9567032,0,12199,5994.0316,6.93364e-05,3.0237794

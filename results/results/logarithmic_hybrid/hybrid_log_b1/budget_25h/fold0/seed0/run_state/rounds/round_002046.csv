@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2225,2046,132,18,1aog_MAE_A_500,6,smina,False,True,0.3715,0.83945356,1.0149161,0,15577,5786.8554,0,0.71096821

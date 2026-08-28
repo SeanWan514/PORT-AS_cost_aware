@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5111,4932,538,76,1fuy_FIP_A_269,6,smina,True,True,0.74036169,1.3054179,1.6949191,0,12691,9395.9303,0,2.3003838

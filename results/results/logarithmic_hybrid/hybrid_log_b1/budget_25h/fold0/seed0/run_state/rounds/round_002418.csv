@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2597,2418,1266,180,1jhv_NIO_A_991,6,smina,False,True,0.33651929,0.86371936,0.88341749,0,15205,5116.7758,0,0.71269103

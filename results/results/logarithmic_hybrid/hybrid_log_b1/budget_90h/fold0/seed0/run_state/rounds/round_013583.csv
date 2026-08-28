@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+13762,13583,9183,1311,4m2c_DAR_C_402,6,smina,False,True,0.18678526,0.85957389,2.4178665,0,4040,754.61246,0.17925047,1.6356111

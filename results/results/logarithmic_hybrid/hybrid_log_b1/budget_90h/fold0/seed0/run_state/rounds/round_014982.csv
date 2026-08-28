@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+15161,14982,6933,990,3wzo_ZOE_B_201,3,diffdock_l,False,True,0.18193228,0.56463046,35.625877,0,1356,246.70018,0,31.284127

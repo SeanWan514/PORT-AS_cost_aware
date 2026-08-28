@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3695,3516,10968,1566,5agn_4JK_B_800,6,smina,False,True,0.35688698,0.82787655,1.4582514,0,14107,5034.6046,1.6326438e-08,3.2537451

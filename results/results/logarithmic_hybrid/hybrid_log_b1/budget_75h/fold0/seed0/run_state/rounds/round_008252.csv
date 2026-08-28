@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8431,8252,1553,221,1lfw_AEP_A_683,6,smina,False,True,0.46043799,0.97792459,1.9435011,0,9371,4314.7644,0,2.8566047

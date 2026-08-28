@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2197,2018,1071,153,1iki_REY_A_400,0,surfdock,False,True,0.63804202,1.1581784,3.2238007,0,15605,9956.6456,0.85864645,3.9414769

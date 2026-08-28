@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+15356,15177,12696,1813,5jfx_6K4_A_4000,5,autodock,True,True,0.20227918,0.65349656,26.201614,0,1664,336.59256,0,23.416922

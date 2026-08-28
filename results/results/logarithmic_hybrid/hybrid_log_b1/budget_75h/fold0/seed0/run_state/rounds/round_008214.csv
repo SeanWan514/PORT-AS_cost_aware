@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8393,8214,9540,1362,4ocu_NDG_A_401,6,smina,False,True,0.45910835,0.98829614,1.667784,0,9409,4319.7505,0.97923778,1.9546536

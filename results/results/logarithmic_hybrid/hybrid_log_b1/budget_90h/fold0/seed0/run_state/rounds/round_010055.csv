@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10234,10055,2932,418,1wmz_NGA_C_503,6,smina,False,True,0.34822026,1.1490448,1.5500625,0,7568,2635.3309,5.837495e-06,1.4352797

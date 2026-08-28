@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+12352,12173,6985,997,3zog_A2Q_A_200,6,smina,False,True,0.14111213,0.56622471,0.99735379,0,5450,769.0611,5.2171254e-06,0.47850642

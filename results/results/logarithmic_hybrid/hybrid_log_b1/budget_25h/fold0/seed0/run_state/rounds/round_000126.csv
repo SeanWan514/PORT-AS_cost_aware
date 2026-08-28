@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+305,126,147,21,1axg_ETF_B_404,0,surfdock,False,True,0.54554194,1.1373684,1.4740226,0,17497,9545.3474,0.99135464,2.2104692

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7950,7771,7482,1068,4ccu_AWF_A_1500,6,smina,False,True,0.30856839,0.72449208,5.502202,0,9252,2854.8747,0,8.6825882

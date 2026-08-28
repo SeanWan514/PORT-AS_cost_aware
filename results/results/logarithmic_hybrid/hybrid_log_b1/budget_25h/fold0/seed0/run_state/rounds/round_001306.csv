@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1485,1306,2498,356,1tc2_7HP_A_800,6,smina,False,True,0.59679134,1.1820252,0.99707091,0,16317,9737.8443,1.0491379e-07,0.67305545

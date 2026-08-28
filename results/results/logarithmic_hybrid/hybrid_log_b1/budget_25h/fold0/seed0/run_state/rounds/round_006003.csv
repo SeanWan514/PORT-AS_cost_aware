@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6182,6003,13549,1935,5tlg_7EG_B_601,4,gnina,False,True,0.5938503,0.77173457,5.2903271,0,11620,6900.5405,0.99243756,5.9967395

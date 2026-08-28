@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2861,2682,2036,290,1p1w_AMQ_A_428,6,smina,False,True,0.59242285,1.0995988,1.3764998,0,14941,8851.3898,0,1.3712292

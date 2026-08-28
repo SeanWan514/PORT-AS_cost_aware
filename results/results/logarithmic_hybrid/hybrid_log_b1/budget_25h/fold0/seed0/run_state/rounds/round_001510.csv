@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1689,1510,2092,298,1pfw_MF3_A_553,6,smina,False,True,0.50045016,0.94780436,1.5345839,0,16113,8063.7534,0.89847451,1.9405595

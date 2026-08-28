@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8857,8678,1483,211,1kwu_MMA_B_601,6,smina,False,True,0.55851063,1.3852775,1.7072135,0,8945,4995.8776,0.029012238,0.99409237

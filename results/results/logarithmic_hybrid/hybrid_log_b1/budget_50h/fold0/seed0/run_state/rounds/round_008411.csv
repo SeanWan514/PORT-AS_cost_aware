@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8590,8411,60,8,1aer_TIA_B_700,4,gnina,False,True,0.3231785,1.0603321,3.0117972,0,9212,2977.1203,0.19126473,2.307893

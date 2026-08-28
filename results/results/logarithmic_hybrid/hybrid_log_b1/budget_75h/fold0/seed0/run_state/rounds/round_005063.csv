@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5242,5063,1714,244,1mmy_G6D_A_348,6,smina,False,True,0.34545853,1.4410869,2.247587,0,12560,4338.9591,0.0026153768,0.59315169

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6565,6386,6178,882,3rsc_TYD_B_397,4,gnina,True,False,0.61954848,1.1258856,4.762804,0,11237,6961.8663,0.95954458,4.9946286

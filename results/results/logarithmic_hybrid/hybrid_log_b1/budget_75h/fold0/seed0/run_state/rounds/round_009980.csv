@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10159,9980,286,40,1d7a_AIR_D_450,6,smina,False,True,0.27001924,0.96848135,2.1294134,0,7643,2063.7571,1.6476325e-06,2.9717015

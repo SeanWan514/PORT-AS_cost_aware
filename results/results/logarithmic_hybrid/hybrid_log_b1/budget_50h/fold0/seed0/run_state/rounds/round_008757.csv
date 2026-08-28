@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8936,8757,16237,2319,6ncx_ADA_C_601,4,gnina,False,True,0.4379125,1.0295996,4.1027451,0,8866,3882.5322,0.00094015983,7.0166567

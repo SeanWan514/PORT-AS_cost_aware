@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10924,10745,7671,1095,4cmk_FQW_C_1270,6,smina,False,True,0.27232277,0.9838462,2.3176329,0,6878,1873.036,0.37809199,4.1132385

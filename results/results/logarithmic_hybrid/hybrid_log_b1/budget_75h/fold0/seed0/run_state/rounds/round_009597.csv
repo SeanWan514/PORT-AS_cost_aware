@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9776,9597,6761,965,3wgc_PLG_B_401,6,smina,False,True,0.34242776,1.0199356,2.6484685,0,8026,2748.3252,1.2689565e-05,6.6381208

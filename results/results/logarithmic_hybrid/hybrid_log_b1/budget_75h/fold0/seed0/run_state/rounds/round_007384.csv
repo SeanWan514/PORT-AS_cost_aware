@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7563,7384,5611,801,2xta_TPP_C_2001,4,gnina,True,False,0.60259612,0.90783128,7.8480701,0,10239,6169.9816,0,16.944621

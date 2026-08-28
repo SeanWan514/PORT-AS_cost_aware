@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8192,8013,5515,787,2wzh_NGO_A_1589,6,smina,True,True,0.56023685,1.4243157,2.0768692,0,9610,5383.8761,0.99409787,1.0414833

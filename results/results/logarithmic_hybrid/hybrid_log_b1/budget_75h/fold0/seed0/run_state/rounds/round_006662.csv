@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6841,6662,16272,2324,6ngp_KKY_A_803,4,gnina,False,True,0.54200061,1.1104346,4.2890515,0,10961,5940.8687,4.7234139e-06,5.3050388

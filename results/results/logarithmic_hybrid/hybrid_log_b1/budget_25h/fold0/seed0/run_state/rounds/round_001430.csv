@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1609,1430,1145,163,1ixo_G3P_A_1001,4,gnina,False,True,0.55858566,0.94135899,2.7674868,0,16193,9045.1776,0.027220164,2.482941

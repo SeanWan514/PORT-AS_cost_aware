@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11385,11206,11182,1597,5cjn_52F_A_809,3,diffdock_l,False,True,0.25435177,0.56179807,25.688623,0,2239,569.49362,0.0019952186,43.097188

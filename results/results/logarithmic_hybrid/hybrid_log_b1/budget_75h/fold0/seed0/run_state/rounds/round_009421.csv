@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9600,9421,2449,349,1syf_THP_A_180,6,smina,False,True,0.34946772,1.0263782,2.1336818,0,8202,2866.3342,0,4.2474479

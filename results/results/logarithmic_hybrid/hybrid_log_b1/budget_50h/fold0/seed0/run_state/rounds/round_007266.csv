@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7445,7266,14084,2012,5x2m_GLN_A_951,0,surfdock,False,True,0.65708681,1.0600731,3.9276547,0,10357,6805.4481,0.93053849,2.7294114

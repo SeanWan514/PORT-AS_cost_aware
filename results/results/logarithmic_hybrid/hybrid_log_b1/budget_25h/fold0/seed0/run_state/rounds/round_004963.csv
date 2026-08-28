@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5142,4963,3338,476,1zpd_CIT_E_610,6,smina,False,True,0.35814644,0.83441518,2.0149326,0,12660,4534.1339,0.035783236,2.1702433

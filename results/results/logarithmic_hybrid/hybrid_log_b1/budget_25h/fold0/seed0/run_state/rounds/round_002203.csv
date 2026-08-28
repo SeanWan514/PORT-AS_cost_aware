@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2382,2203,12704,1814,5jg5_EVF_B_302,6,smina,False,True,0.3719371,0.84697665,1.0945436,0,15420,5735.27,0.00010441745,0.93827125

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6920,6741,13545,1935,5tlg_7EG_B_601,0,surfdock,True,True,0.76451246,1.1028403,3.804616,0,10882,8319.4246,0.9922672,4.2588869

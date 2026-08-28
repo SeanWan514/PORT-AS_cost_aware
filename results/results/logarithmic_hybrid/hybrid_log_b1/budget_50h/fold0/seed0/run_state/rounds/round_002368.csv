@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2547,2368,6210,887,3se2_LDR_A_1,1,unimol,True,False,0.88582963,0.58347664,20.254242,0,8181,7246.9722,0,19.15

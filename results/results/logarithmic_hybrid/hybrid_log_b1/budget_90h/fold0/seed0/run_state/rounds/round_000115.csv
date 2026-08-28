@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+294,115,1708,244,1mmy_G6D_A_348,0,surfdock,False,True,0.63954537,1.1411556,2.4943409,0,17508,11197.16,0.060535724,2.3685495

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+12169,11990,15829,2261,6jz6_CKX_B_701,2,diffdock,False,True,0.29108629,0.60449321,23.301758,0,3462,1007.7407,0,35.555391

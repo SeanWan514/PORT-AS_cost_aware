@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+811,632,2976,425,1x8x_TYR_A_952,1,unimol,True,False,0.80043125,0.64646634,19.480331,0,13452,10767.401,0.95203449,14.29

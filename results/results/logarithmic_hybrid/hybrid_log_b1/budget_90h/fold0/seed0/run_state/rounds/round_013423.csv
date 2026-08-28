@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+13602,13423,17197,2456,6tgi_N8Z_B_508,5,autodock,False,True,0.19416872,0.57493669,12.817047,0,4200,815.50861,0,4.6681347

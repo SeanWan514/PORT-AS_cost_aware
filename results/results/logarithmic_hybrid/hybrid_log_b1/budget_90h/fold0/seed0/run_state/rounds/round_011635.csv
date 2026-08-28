@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11814,11635,3194,456,1zei_CRS_D_54,2,diffdock,False,True,0.25016564,0.62633031,16.77281,0,5988,1497.9919,0,14.189061

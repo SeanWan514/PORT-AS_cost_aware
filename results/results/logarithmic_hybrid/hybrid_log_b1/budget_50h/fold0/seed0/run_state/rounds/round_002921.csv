@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3100,2921,16722,2388,6qol_JB5_A_301,6,smina,False,True,0.42955547,0.90979094,1.1033301,0,14702,6315.3246,0,0.76447415

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10349,10170,7256,1036,4aw0_MJF_A_600,4,gnina,False,True,0.38168758,0.93343081,6.3598714,0,7453,2844.7176,1.715285e-10,6.3581428

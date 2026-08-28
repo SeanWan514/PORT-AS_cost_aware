@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+12452,12273,4349,621,2iht_TPP_D_600,2,diffdock,True,False,0.24125109,0.55811062,32.535866,0,907,218.81473,0,77.875546

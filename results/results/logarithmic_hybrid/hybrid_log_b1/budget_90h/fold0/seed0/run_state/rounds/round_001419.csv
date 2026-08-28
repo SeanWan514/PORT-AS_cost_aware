@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1598,1419,6069,867,3qss_MTG_A_405,0,surfdock,False,True,0.52814264,1.1192882,2.717478,0,16204,8558.0234,0.81927462,2.2464463

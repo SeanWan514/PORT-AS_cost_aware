@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7494,7315,13060,1865,5mxh_GAL_A_401,5,autodock,True,False,0.64674781,0.70490004,15.089084,0,10308,6666.6765,0.98353369,63.899752

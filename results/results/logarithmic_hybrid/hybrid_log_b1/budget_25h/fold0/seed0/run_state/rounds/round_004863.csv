@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5042,4863,3486,498,2ajx_TGN_L_501,0,surfdock,False,True,0.57459371,0.80617679,4.0143232,0,12760,7331.8157,0.02223558,3.7427729

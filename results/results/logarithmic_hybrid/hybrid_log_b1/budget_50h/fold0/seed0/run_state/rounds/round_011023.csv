@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11202,11023,738,105,1h18_DTL_A_9009,3,diffdock_l,False,True,0.25061134,0.56213062,24.028532,0,2594,650.08581,8.3748235e-34,30.984742

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6230,6051,17231,2461,6tog_NQH_A_201,4,gnina,False,True,0.54736383,1.2483472,3.133153,0,11572,6334.0942,0.98322104,2.2152263

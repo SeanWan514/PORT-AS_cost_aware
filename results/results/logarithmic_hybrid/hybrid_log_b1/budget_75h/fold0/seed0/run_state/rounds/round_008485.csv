@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8664,8485,15195,2170,6f77_PLP_D_600,5,autodock,True,False,0.67665388,0.56727607,26.214289,0,5597,3787.2318,0,12.821815

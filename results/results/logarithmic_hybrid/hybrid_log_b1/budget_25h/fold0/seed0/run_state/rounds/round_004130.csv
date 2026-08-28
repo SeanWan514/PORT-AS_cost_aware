@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+4309,4130,16226,2318,6ncx_ADA_A_601,0,surfdock,False,True,0.57645684,0.8168355,3.4233153,0,13493,7778.1321,0,2.6376895

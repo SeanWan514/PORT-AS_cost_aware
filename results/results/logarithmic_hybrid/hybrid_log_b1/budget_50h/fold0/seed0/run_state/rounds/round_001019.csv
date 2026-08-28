@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1198,1019,2471,353,1t87_CAM_B_2422,0,surfdock,False,True,0.52517748,0.95711085,2.8468912,0,16604,8720.0468,0.081808415,2.4795974

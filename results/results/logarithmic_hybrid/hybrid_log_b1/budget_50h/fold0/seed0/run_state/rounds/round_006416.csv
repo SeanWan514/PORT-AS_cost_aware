@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6595,6416,11347,1621,5dne_ASN_B_601,0,surfdock,True,True,0.75690883,1.1342351,3.388896,0,11207,8482.6773,0,2.5483569

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10579,10400,16344,2334,6nsu_DYA_A_402,6,smina,False,True,0.17920674,0.5701677,1.1855315,0,7223,1294.4103,0.010686055,0.84947911

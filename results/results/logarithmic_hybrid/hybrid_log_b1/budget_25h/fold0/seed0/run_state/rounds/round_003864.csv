@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+4043,3864,7606,1086,4clr_FDB_A_1270,4,gnina,False,True,0.47161905,0.83486252,2.545687,0,13759,6489.0065,0.96986567,3.6196229

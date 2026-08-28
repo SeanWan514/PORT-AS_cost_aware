@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3761,3582,11284,1612,5ddu_PMP_D_601,0,surfdock,True,False,0.76073551,1.2585645,3.5252271,0,14041,10681.487,0.99385418,3.3943615

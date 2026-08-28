@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3838,3659,7552,1078,4cld_JUO_B_1270,6,smina,False,True,0.35799003,0.8233381,1.5249963,0,13964,4998.9728,0.00025177489,1.7942531

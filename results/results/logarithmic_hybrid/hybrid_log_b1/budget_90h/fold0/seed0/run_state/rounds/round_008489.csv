@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8668,8489,12752,1821,5jp9_DCM_B_401,5,autodock,True,False,0.46469992,0.61058326,22.372297,0,9134,4244.569,0,9.5634996

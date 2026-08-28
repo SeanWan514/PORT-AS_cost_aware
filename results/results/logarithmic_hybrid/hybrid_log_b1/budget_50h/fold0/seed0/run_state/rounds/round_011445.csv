@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11624,11445,3495,499,2as1_TP5_A_500,2,diffdock,False,True,0.2244886,0.57700863,17.74905,0,2878,646.07818,0,14.945489

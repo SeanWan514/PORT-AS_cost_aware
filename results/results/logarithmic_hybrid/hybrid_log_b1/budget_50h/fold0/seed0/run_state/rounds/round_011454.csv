@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11633,11454,566,80,1g4s_TPS_B_2002,6,smina,False,True,0.17485294,0.56639846,2.7699366,0,6169,1078.6678,0.98985005,9.0327686

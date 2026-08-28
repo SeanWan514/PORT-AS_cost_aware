@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10684,10505,2148,306,1poc_GEL_A_420,6,smina,False,True,0.36864132,1.0796569,4.3271852,0,7118,2623.9889,0.00061945196,15.392073

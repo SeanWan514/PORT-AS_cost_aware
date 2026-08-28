@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+14162,13983,1420,202,1ki2_GA2_B_2,6,smina,False,True,0.16084302,0.57146788,2.7895658,0,3640,585.46859,0,2.3894595

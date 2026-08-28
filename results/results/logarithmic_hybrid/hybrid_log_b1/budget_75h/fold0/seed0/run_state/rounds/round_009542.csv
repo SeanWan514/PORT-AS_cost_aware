@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9721,9542,5067,723,2qui_LTN_B_478,6,smina,False,True,0.33902845,1.03731,2.1174788,0,8081,2739.6889,0.99003313,1.8544842

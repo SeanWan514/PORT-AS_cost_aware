@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2812,2633,1621,231,1luq_BTN_B_5200,4,gnina,False,True,0.64530886,0.87751269,3.1488426,0,14990,9673.1797,0.98253231,2.8913876

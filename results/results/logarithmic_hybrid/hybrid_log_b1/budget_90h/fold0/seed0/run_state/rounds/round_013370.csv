@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+13549,13370,9448,1349,4nir_6DH_A_307,5,autodock,False,True,0.19460347,0.57919492,11.718707,0,4253,827.64858,0,6.2561573

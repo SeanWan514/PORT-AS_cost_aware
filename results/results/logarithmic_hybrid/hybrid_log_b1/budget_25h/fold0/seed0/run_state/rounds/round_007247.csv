@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7426,7247,16835,2405,6r73_LMP_B_301,0,surfdock,False,True,0.53663715,0.70451823,6.3034639,0,8705,4671.4263,0.47154947,4.1896422

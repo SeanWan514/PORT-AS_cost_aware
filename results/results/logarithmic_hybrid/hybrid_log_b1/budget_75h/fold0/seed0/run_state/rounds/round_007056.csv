@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7235,7056,3588,512,2bgc_DTT_F_1238,4,gnina,False,True,0.49489743,1.0345606,3.7322395,0,10567,5229.5811,0.84692595,5.2638659

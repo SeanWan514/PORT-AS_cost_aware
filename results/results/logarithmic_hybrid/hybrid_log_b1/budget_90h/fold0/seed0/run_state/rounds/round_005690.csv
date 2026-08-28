@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5869,5690,2013,287,1ovk_NYL_A_405,4,gnina,True,False,0.5664797,1.3205455,2.9725828,0,11933,6759.8022,0.99258249,2.0166419

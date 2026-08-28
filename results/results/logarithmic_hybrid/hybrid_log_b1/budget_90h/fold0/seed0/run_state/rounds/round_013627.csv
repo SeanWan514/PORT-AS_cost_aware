@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+13806,13627,460,65,1fk1_DAO_A_201,5,autodock,False,True,0.1898127,0.57739384,13.750107,0,3996,758.49155,0,9.1224814

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11703,11524,13911,1987,5vyr_B62_B_301,2,diffdock,True,False,0.59732733,0.64049941,19.592508,0,4620,2759.6523,0.98958523,19.428001

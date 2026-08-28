@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8480,8301,17284,2469,6tt4_FT8_B_711,1,unimol,True,False,0.76118731,0.55811062,21.985001,0,1894,1441.6888,0.94421967,22.49

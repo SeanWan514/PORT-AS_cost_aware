@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10762,10583,2718,388,1uay_ADN_B_1002,2,diffdock,False,True,0.2851778,0.56177261,26.575361,0,2710,772.83184,0,23.91216

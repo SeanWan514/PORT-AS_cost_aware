@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1759,1580,16338,2334,6nsu_DYA_A_402,0,surfdock,False,True,0.53144302,1.1261129,2.7452998,0,16043,8525.9404,0,2.5503455

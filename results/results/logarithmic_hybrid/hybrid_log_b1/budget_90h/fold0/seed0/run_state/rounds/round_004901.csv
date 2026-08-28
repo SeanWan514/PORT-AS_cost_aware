@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5080,4901,14287,2041,5y7a_KYN_A_502,0,surfdock,True,False,0.62114203,1.3378598,2.9083591,0,12722,7902.1689,0.9182321,3.1640811

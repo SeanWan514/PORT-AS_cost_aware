@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5996,5817,11680,1668,5ezp_IPJ_G_202,4,gnina,True,False,0.55259113,1.2395299,3.4606898,0,11806,6523.8909,6.8820985e-07,2.8312242

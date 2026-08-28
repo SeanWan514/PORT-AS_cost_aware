@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+12579,12400,2602,371,1toq_AMG_E_503,5,autodock,False,True,0.8281523,0.76927666,14.131779,0,1845,1527.941,0.99442989,21.669085

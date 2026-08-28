@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9689,9510,2694,384,1u2o_NEC_A_1001,6,smina,False,True,0.40890463,1.0959681,1.9806528,0,8113,3317.4433,3.2642326e-06,2.9159055

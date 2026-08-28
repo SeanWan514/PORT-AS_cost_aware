@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7144,6965,14140,2020,5x6r_7ZR_B_402,0,surfdock,True,False,0.7487415,1.0452743,4.6120596,0,10658,7980.087,5.6017311e-10,4.2582028

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+12062,11883,1969,281,1o8a_NXA_A_702,2,diffdock,True,True,0.61368196,0.61460344,22.033409,0,3779,2319.1041,0.97782522,24.589402

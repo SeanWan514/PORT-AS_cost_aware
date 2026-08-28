@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3945,3766,3367,481,1zwp_NIM_A_401,0,surfdock,False,True,0.56916072,0.81415056,3.3534384,0,13857,7886.8601,0.9545907,3.0276443

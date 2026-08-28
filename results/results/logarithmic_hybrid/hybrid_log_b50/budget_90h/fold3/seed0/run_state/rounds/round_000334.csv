@@ -1,0 +1,4 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+16810,334,4436,633,2hjp_PPR_A_291,5,autodock,False,True,0.037426376,0.78559417,10.631154,0,3,0.11227913,0,11.211714
+16811,334,17127,2446,6tgi_N8Z_A_508,5,autodock,False,True,0.036154348,0.66635106,12.00771,0,3,0.10846304,0,4.6129779
+16812,334,10169,1452,4tsk_TLA_A_404,5,autodock,False,True,0.034748888,0.63543743,9.9898033,0,3,0.10424666,0.007003036,8.8988998

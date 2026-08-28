@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+12371,12192,9260,1322,4mol_2FG_C_703,6,smina,False,True,0.14376576,0.57613628,2.6524937,0,5431,780.79182,0.17488794,0.92489256

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6859,6680,13139,1877,5njb_BB2_C_502,0,surfdock,True,False,0.7371621,0.95126611,6.2042851,0,10943,8066.7649,0.96875337,4.3337833

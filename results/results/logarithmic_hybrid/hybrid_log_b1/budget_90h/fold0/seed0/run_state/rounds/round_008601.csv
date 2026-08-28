@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8780,8601,2603,371,1toq_AMG_E_503,6,smina,False,True,0.5313701,1.4321411,1.7593832,0,9022,4794.0211,0.99461845,1.0512784

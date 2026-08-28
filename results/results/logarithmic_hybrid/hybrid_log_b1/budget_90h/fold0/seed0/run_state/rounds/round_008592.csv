@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8771,8592,118,16,1anc_BEN_A_290,6,smina,False,True,0.51089063,1.4387013,1.7631116,0,9031,4613.8533,0.98920182,0.88080557

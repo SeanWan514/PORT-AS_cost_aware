@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7065,6886,7018,1002,3zwt_KFZ_A_1401,4,gnina,False,True,0.5061169,1.0429584,4.0642858,0,10737,5434.1772,5.3647083e-07,3.5655027

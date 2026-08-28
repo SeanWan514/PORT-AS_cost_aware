@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6551,6372,4311,615,2ht8_G39_A_800,6,smina,False,True,0.5435651,1.3823257,1.7947812,0,11251,6115.6509,0.0002985737,3.5182311

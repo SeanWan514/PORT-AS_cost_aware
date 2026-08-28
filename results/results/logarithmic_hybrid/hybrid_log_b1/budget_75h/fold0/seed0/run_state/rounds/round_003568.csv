@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3747,3568,11529,1647,5eo7_SFU_B_403,0,surfdock,True,True,0.70794418,1.3634466,2.7091296,0,14055,9950.1555,0,2.439579

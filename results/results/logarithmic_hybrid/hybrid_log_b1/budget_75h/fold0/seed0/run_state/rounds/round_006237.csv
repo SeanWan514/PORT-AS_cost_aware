@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6416,6237,1973,281,1o8a_NXA_A_702,6,smina,False,True,0.58162026,1.4380068,1.6509275,0,11386,6622.3283,0.99092957,0.86518835

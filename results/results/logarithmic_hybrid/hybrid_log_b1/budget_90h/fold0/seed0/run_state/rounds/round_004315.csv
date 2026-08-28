@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+4494,4315,16359,2337,6o04_DNA_B_601,0,surfdock,True,False,0.73942231,1.2897605,3.3149531,0,13308,9840.2321,0.0005838815,3.0270392

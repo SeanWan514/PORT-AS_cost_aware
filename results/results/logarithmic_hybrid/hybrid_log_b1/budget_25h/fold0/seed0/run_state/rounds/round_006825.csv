@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7004,6825,15161,2165,6f76_CVK_A_203,6,smina,False,True,0.2899666,0.78529622,3.6652625,0,10798,3131.0594,0,5.4757962

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1121,942,10220,1460,4ws6_WBU_A_301,0,surfdock,False,True,0.52653434,0.96703203,2.7396166,0,16681,8783.1194,0,2.2617208

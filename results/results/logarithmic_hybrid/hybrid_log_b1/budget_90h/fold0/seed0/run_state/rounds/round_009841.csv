@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10020,9841,5969,852,2zut_A2G_D_4004,5,autodock,True,False,0.5123292,0.55811062,29.061001,0,5699,2919.7641,5.1269497e-05,12.717903

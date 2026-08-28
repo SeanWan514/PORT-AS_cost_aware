@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10420,10241,9482,1354,4nkw_PLO_C_601,4,gnina,False,True,0.35958847,0.90576865,6.6460176,0,7382,2654.4821,0.99258858,6.3839773

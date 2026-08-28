@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7087,6908,15299,2185,6flu_DTK_B_401,4,gnina,True,False,0.47241407,1.1678692,4.2079735,0,10715,5061.9168,3.7667334e-07,3.5509825

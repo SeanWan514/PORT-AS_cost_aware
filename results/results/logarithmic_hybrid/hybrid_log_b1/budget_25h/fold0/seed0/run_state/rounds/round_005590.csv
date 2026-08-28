@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5769,5590,12002,1714,5g44_YTZ_A_1512,4,gnina,False,True,0.44077582,0.77662317,3.1916351,0,12033,5303.8555,0.89602537,2.3980073

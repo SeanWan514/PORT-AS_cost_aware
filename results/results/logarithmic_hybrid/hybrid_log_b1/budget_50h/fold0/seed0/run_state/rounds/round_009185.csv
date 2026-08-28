@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9364,9185,14823,2117,6btn_E8M_A_304,4,gnina,False,True,0.46231802,0.99384488,5.3067055,0,8438,3901.0395,0.22348533,5.1635454

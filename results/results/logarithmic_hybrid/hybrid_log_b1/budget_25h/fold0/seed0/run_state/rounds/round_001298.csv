@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1477,1298,3555,507,2bdg_PBZ_A_301,6,smina,False,True,0.60476871,1.1775729,1.027815,0,16325,9872.8492,0,0.75301971

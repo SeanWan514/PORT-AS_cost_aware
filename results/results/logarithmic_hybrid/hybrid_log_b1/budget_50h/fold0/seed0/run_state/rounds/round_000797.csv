@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+976,797,13467,1923,5tde_2HP_B_901,6,smina,False,True,0.6175281,1.2429162,1.1512942,0,16826,10390.528,0.98793898,0.51995532

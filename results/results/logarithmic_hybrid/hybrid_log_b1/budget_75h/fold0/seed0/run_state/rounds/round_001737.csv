@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1916,1737,742,106,1h18_DTL_B_9009,0,surfdock,False,True,0.63263976,1.1439203,3.2568228,0,15886,10050.115,0.99240068,2.281551

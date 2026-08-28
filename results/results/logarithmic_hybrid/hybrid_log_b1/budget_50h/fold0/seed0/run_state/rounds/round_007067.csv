@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7246,7067,14707,2101,6av2_BY7_B_803,0,surfdock,True,False,0.75420316,1.0707239,4.2589736,0,10556,7961.3685,0.64943977,3.9817669

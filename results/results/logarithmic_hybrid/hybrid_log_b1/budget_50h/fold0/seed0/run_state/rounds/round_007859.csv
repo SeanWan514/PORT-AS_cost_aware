@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8038,7859,17280,2468,6tt4_FT8_A_709,4,gnina,True,False,0.68064759,0.99539727,5.4639425,0,9764,6645.8431,0.98896537,9.7520074

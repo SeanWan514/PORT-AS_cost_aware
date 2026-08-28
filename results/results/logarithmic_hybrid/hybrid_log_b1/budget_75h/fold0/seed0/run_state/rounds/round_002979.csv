@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3158,2979,7567,1081,4cle_JR2_A_1270,0,surfdock,False,True,0.64789823,1.2728845,2.6527612,0,14644,9487.8217,0.99282038,2.6102216

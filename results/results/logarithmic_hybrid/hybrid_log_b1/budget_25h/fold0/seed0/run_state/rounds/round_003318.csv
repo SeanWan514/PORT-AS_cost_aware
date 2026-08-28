@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3497,3318,2580,368,1tl2_NDG_A_240,4,gnina,False,True,0.62286495,0.89740807,3.0166771,0,14305,8910.0831,8.5012011e-05,1.9229871

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11975,11796,83,11,1aiq_CB3_A_266,6,smina,False,True,0.17645162,0.57576434,4.8903818,0,5827,1028.1836,0,10.9056

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6097,5918,8460,1208,4hzf_CMP_A_302,4,gnina,True,False,0.55286458,1.2061221,3.944561,0,11705,6471.2799,0.99770562,3.6320901

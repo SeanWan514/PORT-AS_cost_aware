@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10581,10402,9148,1306,4lvb_20N_B_601,6,smina,False,True,0.30637135,1.1451787,1.9317931,0,7221,2212.3076,0,2.0768702

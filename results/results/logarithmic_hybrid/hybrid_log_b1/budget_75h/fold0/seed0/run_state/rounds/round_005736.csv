@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5915,5736,11323,1617,5die_5CJ_A_601,4,gnina,True,False,0.55390552,1.2228259,3.6202593,0,11887,6584.2749,0.16329875,3.9511209

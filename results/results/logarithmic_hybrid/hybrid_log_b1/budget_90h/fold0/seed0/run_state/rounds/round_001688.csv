@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1867,1688,17081,2440,6sz3_M1H_B_601,1,unimol,True,False,0.74138829,0.63758982,19.264563,0,15600,11565.657,0.9731615,19.02

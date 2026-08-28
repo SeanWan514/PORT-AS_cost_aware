@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5979,5800,7035,1005,3zzm_JLN_A_1526,0,surfdock,True,True,0.74035839,1.0442937,4.5003834,0,11823,8753.2572,0.96898039,4.0108715

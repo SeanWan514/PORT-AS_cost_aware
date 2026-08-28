@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10705,10526,7384,1054,4bux_F35_C_2165,6,smina,False,True,0.25304112,0.90305296,2.6230202,0,7097,1795.8328,0,3.7816529

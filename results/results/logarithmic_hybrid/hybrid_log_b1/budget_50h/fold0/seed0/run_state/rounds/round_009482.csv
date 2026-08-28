@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9661,9482,27,3,1a49_OXL_F_4133,6,smina,False,True,0.2490195,0.81093204,3.0135412,0,8141,2027.2678,2.3377895e-05,0.71893951

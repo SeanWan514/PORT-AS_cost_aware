@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+16230,16051,3652,521,2bxh_IOS_B_1002,5,autodock,False,True,0.088946676,0.61818631,12.255898,0,1572,139.82418,2.0752459e-07,6.1924863

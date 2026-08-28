@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2200,2021,15257,2179,6fld_NAG_A_603,4,gnina,False,True,0.51671054,0.91544756,2.1793876,0,15602,8061.7179,3.643899e-10,2.4996145

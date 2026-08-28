@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1980,1801,4682,668,2o7d_DHC_B_701,6,smina,False,True,0.51152537,0.96654767,1.7488072,0,15822,8093.3544,0,1.6821243

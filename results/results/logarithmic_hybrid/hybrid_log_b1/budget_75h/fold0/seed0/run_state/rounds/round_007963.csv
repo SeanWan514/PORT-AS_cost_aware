@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8142,7963,12221,1745,5hfa_FP1_A_608,6,smina,False,True,0.39485824,0.94979542,1.5275053,0,9660,3814.3306,0,1.000826

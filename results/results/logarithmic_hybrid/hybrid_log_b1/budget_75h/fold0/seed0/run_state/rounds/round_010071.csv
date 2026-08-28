@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10250,10071,4822,688,2pvy_ACP_D_802,6,smina,False,True,0.27214019,0.95237348,2.481349,0,7552,2055.2027,2.5507597e-05,1.4828317

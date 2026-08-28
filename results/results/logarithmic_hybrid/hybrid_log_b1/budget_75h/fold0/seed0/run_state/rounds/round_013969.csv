@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+14148,13969,7719,1102,4cw2_XDS_A_1303,5,autodock,False,True,0.17465183,0.57566175,11.43402,0,2294,400.6513,0,8.5337282

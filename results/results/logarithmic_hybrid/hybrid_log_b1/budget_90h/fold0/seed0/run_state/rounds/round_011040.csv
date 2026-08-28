@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11219,11040,9441,1348,4ni1_2JX_A_204,5,autodock,False,True,0.26658553,0.68879892,11.581614,0,6583,1754.9326,5.3013031e-05,4.1506334

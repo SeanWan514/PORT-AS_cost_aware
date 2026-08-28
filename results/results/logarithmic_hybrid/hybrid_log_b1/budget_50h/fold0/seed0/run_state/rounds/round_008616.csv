@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8795,8616,7648,1092,4cme_KTZ_D_1270,4,gnina,False,True,0.52936524,1.0423279,4.4118643,0,9007,4767.9927,0.95681769,4.4286532

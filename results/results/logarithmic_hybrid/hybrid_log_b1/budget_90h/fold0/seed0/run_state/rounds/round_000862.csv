@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1041,862,4390,627,2ixi_TYD_A_1182,1,unimol,True,False,0.77888894,0.63652784,19.665886,0,15852,12346.947,0,18.55

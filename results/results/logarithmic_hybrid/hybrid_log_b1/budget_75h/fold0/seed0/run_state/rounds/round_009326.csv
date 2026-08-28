@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9505,9326,4738,676,2pd5_ZST_A_600,6,smina,False,True,0.40247085,0.99640231,2.9900072,0,8297,3339.3006,0,6.867778

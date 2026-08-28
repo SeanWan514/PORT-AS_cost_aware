@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5746,5567,5360,765,2vp5_DCZ_A_1210,5,autodock,True,False,0.65933108,0.72194219,14.644896,0,12056,7948.8954,0,32.699705

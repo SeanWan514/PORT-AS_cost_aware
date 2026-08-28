@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9773,9594,15160,2165,6f76_CVK_A_203,5,autodock,True,False,0.50828111,0.55811062,28.793501,0,6175,3138.6359,0,11.028789

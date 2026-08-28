@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7184,7005,15117,2159,6f3s_CKW_A_902,4,gnina,False,True,0.52789344,0.99301042,5.5357013,0,10618,5605.1726,0.54046421,7.0966508

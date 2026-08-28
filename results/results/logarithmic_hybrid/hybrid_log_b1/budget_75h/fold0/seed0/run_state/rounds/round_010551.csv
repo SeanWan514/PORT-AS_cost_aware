@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10730,10551,4043,577,2fhk_MFN_A_600,4,gnina,False,True,0.31103503,0.88798025,6.0060344,0,7072,2199.6398,9.425511e-17,12.155144

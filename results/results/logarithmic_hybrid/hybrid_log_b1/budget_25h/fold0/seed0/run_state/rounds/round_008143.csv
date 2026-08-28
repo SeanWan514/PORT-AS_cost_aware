@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8322,8143,308,44,1dna_CB3_B_602,0,surfdock,False,True,0.5207172,0.64781632,8.7528934,0,5113,2662.427,0.91066295,4.8442767

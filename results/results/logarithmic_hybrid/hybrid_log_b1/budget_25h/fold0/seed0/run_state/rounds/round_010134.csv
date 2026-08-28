@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10313,10134,9557,1365,4ox5_DAL_A_307,2,diffdock,False,True,0.24480162,0.67911429,15.572323,0,127,31.089806,0.00030666054,11.746002

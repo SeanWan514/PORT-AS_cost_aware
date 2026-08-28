@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9930,9751,12410,1772,5ihe_D5M_A_701,6,smina,False,True,0.3291787,1.0124667,2.6977825,0,7872,2591.2948,0.0037859471,3.3482445

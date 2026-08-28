@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+489,310,9212,1316,4mgj_CPZ_A_502,0,surfdock,False,True,0.56259894,1.1093321,2.094646,0,17313,9740.2755,8.6485453e-05,2.7426395

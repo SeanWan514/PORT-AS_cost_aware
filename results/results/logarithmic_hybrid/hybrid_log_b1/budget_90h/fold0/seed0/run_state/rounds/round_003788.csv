@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3967,3788,12502,1786,5ita_6DC_B_801,0,surfdock,True,False,0.74957327,1.2237167,3.8530574,0,13835,10370.346,0.51378784,4.4532884

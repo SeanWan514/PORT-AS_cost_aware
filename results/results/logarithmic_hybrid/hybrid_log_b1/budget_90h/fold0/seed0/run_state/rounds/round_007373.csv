@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7552,7373,6129,875,3ro7_TDR_A_300,4,gnina,True,False,0.43379739,1.3600154,2.4093051,0,10250,4446.4233,0.04408724,1.3088778

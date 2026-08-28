@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+395,216,9149,1307,4lxi_22J_A_301,0,surfdock,False,True,0.5619276,1.1401824,1.4157782,0,17407,9781.4737,0.90201603,3.632006

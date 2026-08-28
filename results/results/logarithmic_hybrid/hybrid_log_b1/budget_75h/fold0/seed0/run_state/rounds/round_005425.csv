@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5604,5425,5928,846,2ztl_3HL_A_301,6,smina,True,True,0.65878564,1.442695,2.0827856,0,12198,8035.8672,0.00033717621,0.6843413

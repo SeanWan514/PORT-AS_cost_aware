@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+778,599,4892,698,2qb4_DSM_A_802,6,smina,False,True,0.40003827,0.99460731,1.4962271,0,17024,6810.2515,0,1.9679111

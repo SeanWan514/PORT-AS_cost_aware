@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3973,3794,11179,1597,5cjn_52F_A_809,0,surfdock,False,True,0.56528459,0.81191801,2.8643608,0,13829,7817.3206,0.99020367,3.4173138

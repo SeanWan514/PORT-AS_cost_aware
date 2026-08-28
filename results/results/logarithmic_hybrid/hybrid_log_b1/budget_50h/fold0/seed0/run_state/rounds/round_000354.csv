@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+533,354,14868,2124,6c1i_KNA_A_502,0,surfdock,False,True,0.55940374,1.086104,2.4859262,0,17269,9660.3432,0.00045524375,2.8018676

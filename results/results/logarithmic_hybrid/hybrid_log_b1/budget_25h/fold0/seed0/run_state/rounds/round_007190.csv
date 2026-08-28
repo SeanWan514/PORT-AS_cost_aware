@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7369,7190,6528,932,3vc3_C6P_F_501,4,gnina,True,True,0.8195922,0.84560901,7.1871219,0,7683,6296.9268,0.93901863,8.8147631

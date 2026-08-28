@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7949,7770,16022,2288,6lj7_EFR_A_301,6,smina,False,True,0.36465869,0.92419897,1.6007016,0,9853,3592.9821,9.6629975e-07,1.8373464

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8884,8705,9209,1315,4ma8_Z80_C_301,4,gnina,False,True,0.38084523,1.0336181,3.7934361,0,8918,3396.3777,8.2069673e-07,3.1229275

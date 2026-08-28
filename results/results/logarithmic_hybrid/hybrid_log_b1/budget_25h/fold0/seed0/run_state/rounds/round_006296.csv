@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6475,6296,10010,1430,4udc_DEX_A_1778,0,surfdock,False,True,0.55538598,0.75310128,5.1553693,0,11327,6290.857,0.99319767,4.4621984

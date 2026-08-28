@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2682,2503,16730,2390,6qor_JBK_A_301,0,surfdock,False,True,0.55123027,0.91865823,3.0276463,0,15120,8334.6017,0.99854079,2.5831757

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+4083,3904,2631,375,1tt6_DES_A_129,6,smina,False,True,0.29889258,0.80680933,1.6340328,0,13719,4100.5073,0,1.9340778

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8799,8620,2643,377,1tvw_CB3_A_318,4,gnina,False,True,0.40333451,0.6680323,9.6877699,0,3639,1467.7343,7.7561149e-11,10.72032

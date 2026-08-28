@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2068,1889,1358,194,1kar_HSM_A_502,0,surfdock,False,True,0.63826,1.1657863,3.1131213,0,15734,10042.383,0.0014684532,4.3518207

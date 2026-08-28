@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1566,1387,15449,2207,6gqk_F88_A_1001,0,surfdock,True,False,0.75698623,1.0970097,5.1206741,0,16236,12290.428,0.9841873,5.0144745

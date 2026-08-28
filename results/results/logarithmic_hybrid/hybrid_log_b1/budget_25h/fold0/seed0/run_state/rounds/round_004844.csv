@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5023,4844,7594,1084,4clo_XP0_B_1270,6,smina,False,True,0.3327285,0.81805447,2.0952413,0,12779,4251.9375,0,2.7529625

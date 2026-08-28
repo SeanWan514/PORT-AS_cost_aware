@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+12148,11969,9648,1378,4pik_MAN_C_503,2,diffdock,False,True,0.26685054,0.61696674,20.68997,0,3924,1047.1215,0,17.739795

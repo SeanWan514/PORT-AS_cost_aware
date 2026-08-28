@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1939,1760,16010,2287,6lit_2OH_B_501,1,unimol,True,False,0.89162829,0.61003205,21.335831,0,14048,12525.594,0,19.67

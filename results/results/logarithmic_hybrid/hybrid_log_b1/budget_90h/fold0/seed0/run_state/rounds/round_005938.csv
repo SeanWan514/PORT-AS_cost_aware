@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6117,5938,3042,434,1xny_BTN_A_5602,4,gnina,True,False,0.54820344,1.2097098,3.9065728,0,11685,6405.7572,0.03052433,3.6234059

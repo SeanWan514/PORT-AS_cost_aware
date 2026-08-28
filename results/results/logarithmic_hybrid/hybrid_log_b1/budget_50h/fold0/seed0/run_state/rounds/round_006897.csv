@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7076,6897,6482,926,3vbn_TYD_E_301,0,surfdock,False,True,0.66095791,1.062422,3.7674243,0,10726,7089.4345,0.5859874,3.7462994

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2471,2292,14875,2125,6c1x_DNX_A_203,0,surfdock,False,True,0.54835117,1.177295,2.6309049,0,15331,8406.7717,0,2.8562423

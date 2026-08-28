@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+12495,12316,5197,742,2tmk_ATM_A_217,3,diffdock_l,True,False,0.33094643,0.55811062,31.391678,0,3672,1215.2353,0.98802761,32.688302

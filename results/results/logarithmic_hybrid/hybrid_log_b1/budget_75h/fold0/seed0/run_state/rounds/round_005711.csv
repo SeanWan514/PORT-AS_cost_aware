@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5890,5711,6117,873,3r51_MMA_A_200,6,smina,False,True,0.62684308,1.4424528,1.9367217,0,11912,7466.9547,0.99344042,0.93529013

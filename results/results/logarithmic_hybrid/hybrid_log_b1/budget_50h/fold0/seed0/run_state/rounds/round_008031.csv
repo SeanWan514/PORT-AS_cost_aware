@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8210,8031,8512,1216,4i02_CMP_F_301,0,surfdock,True,True,0.74479881,1.0908454,4.033318,0,9592,7144.1102,0.52976567,3.8033067

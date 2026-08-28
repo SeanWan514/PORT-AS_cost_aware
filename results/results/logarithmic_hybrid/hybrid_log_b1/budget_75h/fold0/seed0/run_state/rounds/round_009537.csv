@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9716,9537,4318,616,2htu_BCZ_A_801,6,smina,False,True,0.33311117,1.0216504,2.090452,0,8086,2693.5369,0.99050918,4.602376

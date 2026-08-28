@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1840,1661,16923,2417,6rhc_K48_A_305,4,gnina,False,True,0.57263867,0.99891175,2.7857308,0,15962,9140.4585,0.9896873,2.0734903

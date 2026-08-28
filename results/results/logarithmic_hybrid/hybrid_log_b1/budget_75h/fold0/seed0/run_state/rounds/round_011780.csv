@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11959,11780,1605,229,1lti_GAL_H_104,2,diffdock,False,True,0.31357345,0.64293063,19.15696,0,4463,1399.4783,0,20.604265

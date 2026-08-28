@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2003,1824,5702,814,2y4j_LAC_B_400,4,gnina,False,True,0.60986193,0.90979009,2.9678996,0,15799,9635.2086,0.12507775,2.1577086

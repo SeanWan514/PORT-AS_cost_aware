@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+4869,4690,5473,781,2wdq_TEO_E_1589,6,smina,False,True,0.33480656,0.81899396,2.0692277,0,12933,4330.0532,0.9623516,1.0322953

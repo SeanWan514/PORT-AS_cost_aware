@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+15639,15460,15426,2203,6gck_EUB_D_302,5,autodock,False,True,0.11216322,0.56855575,16.334576,0,2163,242.60903,0,6.4751667

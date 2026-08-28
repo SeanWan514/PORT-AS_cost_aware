@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10893,10714,9722,1388,4qbz_D80_A_917,6,smina,False,True,0.287026,1.0660452,2.3962171,0,6909,1983.0626,0.033174843,1.9881793

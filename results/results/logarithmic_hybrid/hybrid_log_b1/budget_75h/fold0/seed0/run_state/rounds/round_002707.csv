@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2886,2707,5761,823,2z20_PLP_A_701,0,surfdock,True,True,0.74822413,1.3092082,3.0695746,0,14916,11160.511,0,3.2609828

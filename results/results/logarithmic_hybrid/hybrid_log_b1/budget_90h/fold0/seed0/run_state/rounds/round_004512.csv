@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+4691,4512,17766,2538,7joc_ARZ_A_302,0,surfdock,True,False,0.72882997,1.277109,3.4291975,0,13111,9555.6898,0.98923768,3.7009592

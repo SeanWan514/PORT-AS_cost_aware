@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6087,5908,5046,720,2qs2_UBF_B_602,6,smina,False,True,0.33742934,0.77920553,3.1576936,0,11715,3952.9847,0,4.2311106

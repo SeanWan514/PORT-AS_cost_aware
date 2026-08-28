@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+12998,12819,15444,2206,6gpn_OGA_B_402,2,diffdock,False,True,0.24533883,0.56330984,20.348047,0,2957,725.46691,0,24.274341

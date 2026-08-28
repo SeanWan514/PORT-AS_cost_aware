@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10049,9870,5511,787,2wzh_NGO_A_1589,2,diffdock,True,True,0.69693583,0.6197195,19.686739,0,4465,3111.8185,0,25.877764

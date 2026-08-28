@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9772,9593,11220,1602,5cpp_ADO_A_422,6,smina,False,True,0.39574792,1.1534374,1.3904969,0,8030,3177.8558,0,0.54984823

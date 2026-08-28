@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+431,252,2345,335,1rvz_NAG_F_3331,0,surfdock,False,True,0.51273618,1.134171,1.8880063,0,17371,8906.7401,8.6951221e-05,2.6566408

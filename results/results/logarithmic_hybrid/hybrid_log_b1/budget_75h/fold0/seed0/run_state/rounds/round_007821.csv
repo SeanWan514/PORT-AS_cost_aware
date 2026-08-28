@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8000,7821,13838,1976,5vl0_BNF_B_404,6,smina,False,True,0.35603718,0.92445952,1.5654595,0,9802,3489.8765,0,0.99510403

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6036,5857,9569,1367,4oxy_1TN_B_302,0,surfdock,False,True,0.56367435,0.78100081,4.7041283,0,11766,6632.1924,0.98677158,3.9585772

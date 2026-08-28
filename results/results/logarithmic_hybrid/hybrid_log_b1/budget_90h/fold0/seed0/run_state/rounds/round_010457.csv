@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10636,10457,4696,670,2oci_TYC_A_401,6,smina,False,True,0.29410375,1.098178,1.6842711,0,7166,2107.5475,2.3054853e-05,1.5300719

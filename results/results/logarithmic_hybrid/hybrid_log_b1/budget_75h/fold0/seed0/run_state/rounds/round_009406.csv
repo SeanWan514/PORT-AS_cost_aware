@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9585,9406,3491,498,2ajx_TGN_L_501,5,autodock,True,False,0.52396118,0.63547759,19.662512,0,6673,3496.393,0,9.5501848

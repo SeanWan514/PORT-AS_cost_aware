@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3881,3702,11998,1714,5g44_YTZ_A_1512,0,surfdock,True,True,0.75550699,1.3736975,2.6348648,0,13921,10517.413,0.00010079617,2.9993662

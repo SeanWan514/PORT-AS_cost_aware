@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6784,6605,12607,1801,5j61_A3G_A_501,0,surfdock,True,True,0.75467541,1.0636283,4.3181009,0,11018,8315.0137,0.98920645,3.6518427

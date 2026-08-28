@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5561,5382,12667,1809,5jdv_EVF_B_302,4,gnina,False,True,0.52977198,1.3631928,2.538461,0,12241,6484.9388,0.99750222,2.7418479

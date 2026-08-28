@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8593,8414,1756,250,1mvc_BM6_A_200,6,smina,True,False,0.40457975,1.3273283,2.6355846,0,9209,3725.7749,0,5.6474899

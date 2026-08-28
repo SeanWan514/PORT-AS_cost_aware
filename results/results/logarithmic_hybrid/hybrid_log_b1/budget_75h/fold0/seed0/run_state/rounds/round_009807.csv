@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9986,9807,10994,1570,5awd_IDQ_A_901,4,gnina,False,True,0.38260055,0.98058919,5.0478749,0,7816,2990.4059,4.8913406e-05,6.0217057

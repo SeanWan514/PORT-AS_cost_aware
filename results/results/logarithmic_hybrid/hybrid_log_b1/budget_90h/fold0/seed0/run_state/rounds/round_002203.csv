@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2382,2203,12901,1843,5la1_XYP_A_601,0,surfdock,False,True,0.54536047,1.1731969,2.6239467,0,15420,8409.4585,0.99594295,2.3817199

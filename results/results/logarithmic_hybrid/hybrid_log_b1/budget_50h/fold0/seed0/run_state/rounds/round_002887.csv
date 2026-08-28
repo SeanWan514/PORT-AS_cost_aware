@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3066,2887,11556,1650,5eo7_SFU_C_401,6,smina,False,True,0.45123143,0.90922944,1.1216009,0,14736,6649.3464,0.92547719,0.90533834

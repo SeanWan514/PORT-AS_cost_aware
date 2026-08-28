@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1570,1391,462,66,1fm8_DDC_A_501,0,surfdock,False,True,0.53002301,1.1172248,2.7189391,0,16232,8603.3335,1.2272612e-05,3.4134959

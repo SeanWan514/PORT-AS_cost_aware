@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+13980,13801,4721,674,2oxp_THP_A_300,3,diffdock_l,False,True,0.21243203,0.5747693,30.075701,0,2554,542.55142,3.1454328e-09,28.358346

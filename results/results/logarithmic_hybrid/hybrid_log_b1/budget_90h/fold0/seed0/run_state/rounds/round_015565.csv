@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+15744,15565,17068,2438,6sxr_KHP_A_513,2,diffdock,False,True,0.1239268,0.56774298,26.314804,0,1281,158.75023,0,25.424169

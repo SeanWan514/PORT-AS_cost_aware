@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2366,2187,3499,499,2as1_TP5_A_500,6,smina,False,True,0.33743336,0.84764903,0.93493319,0,15436,5208.6213,0,0.85793296

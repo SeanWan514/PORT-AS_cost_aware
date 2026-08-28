@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5125,4946,1785,255,1ne4_RP1_A_401,0,surfdock,False,True,0.5716081,0.79809639,4.1020527,0,12677,7246.2759,0.9695519,3.6174853

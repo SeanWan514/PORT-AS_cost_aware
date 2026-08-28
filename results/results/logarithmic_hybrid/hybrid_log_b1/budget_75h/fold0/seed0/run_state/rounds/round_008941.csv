@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9120,8941,16932,2418,6rlt_MLI_A_508,6,smina,False,True,0.34195933,0.97983696,1.3204889,0,8682,2968.8909,0.62911768,0.63262324

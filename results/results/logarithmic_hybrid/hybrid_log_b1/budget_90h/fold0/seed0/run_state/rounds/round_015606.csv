@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+15785,15606,10184,1454,4wmz_TPF_A_602,6,smina,False,True,0.075620626,0.57176028,2.5523131,0,2017,152.5268,0,3.8059387

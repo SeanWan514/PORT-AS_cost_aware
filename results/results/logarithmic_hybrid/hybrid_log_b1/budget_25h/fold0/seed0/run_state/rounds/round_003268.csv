@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3447,3268,3597,513,2bgc_DTU_A_1238,6,smina,False,True,0.27006096,0.83843057,1.2419133,0,14355,3876.725,0.1518423,0.86635649

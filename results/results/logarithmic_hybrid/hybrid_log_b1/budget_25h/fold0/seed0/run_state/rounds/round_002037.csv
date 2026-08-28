@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2216,2037,181,25,1bqp_MAN_C_402,6,smina,False,True,0.37300891,0.8369175,1.0066422,0,15586,5813.7169,0.97879968,0.7845852

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6200,6021,11830,1690,5fli_QUE_F_301,0,surfdock,False,True,0.56154925,0.78327405,4.6597681,0,11602,6515.0944,0,2.8296642

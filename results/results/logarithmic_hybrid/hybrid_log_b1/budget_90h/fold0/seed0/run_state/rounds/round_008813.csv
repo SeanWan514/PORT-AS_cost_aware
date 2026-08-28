@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8992,8813,657,93,1gim_HDA_A_438,6,smina,False,True,0.54722171,1.3596705,1.6258364,0,8810,4821.0233,0.010349419,0.78473519

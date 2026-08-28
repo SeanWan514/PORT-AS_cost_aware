@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2266,2087,6075,867,3qss_MTG_A_405,6,smina,False,True,0.48651271,1.0188293,1.016068,0,15536,7558.4615,0.00092424007,0.7927917

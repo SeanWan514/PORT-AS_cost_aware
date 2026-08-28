@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1215,1036,9457,1351,4nir_6DH_B_306,0,surfdock,False,True,0.52180609,0.95894083,2.8252935,0,16587,8655.1977,1.003211e-05,2.758865

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8621,8442,4492,641,2ji6_TPW_A_1566,5,autodock,True,False,0.68133957,0.55811062,27.32,0,5391,3673.1016,0,30.602791

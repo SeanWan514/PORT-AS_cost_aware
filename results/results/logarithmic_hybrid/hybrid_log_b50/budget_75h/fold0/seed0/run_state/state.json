@@ -1,0 +1,10 @@
+{
+  "policy": "hybrid_log_b50",
+  "budget_hours": 75.0,
+  "fold": 0,
+  "seed": 0,
+  "round": 298,
+  "queried_cells": 15037,
+  "realized_runtime_seconds": 270009.79512546334,
+  "elapsed_seconds": 147.00641512870789
+}

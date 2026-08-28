@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6650,6471,7307,1043,4bbx_LKF_A_1760,6,smina,False,True,0.30823629,0.79433975,3.2866671,0,11152,3437.4511,0,3.2417964

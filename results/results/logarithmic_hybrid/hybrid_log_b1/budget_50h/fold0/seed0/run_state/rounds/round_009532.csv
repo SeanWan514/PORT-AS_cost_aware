@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9711,9532,695,99,1gxu_2HP_A_1092,2,diffdock,False,True,0.31162088,0.6655836,16.225969,0,5834,1817.9962,0,5.2828316

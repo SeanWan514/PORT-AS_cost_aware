@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6197,6018,11843,1691,5fli_QUE_G_301,6,smina,False,True,0.28041995,0.80729556,2.8196187,0,11605,3254.2736,0,2.4298453

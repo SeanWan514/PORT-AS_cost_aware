@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6315,6136,7846,1120,4d6z_PK9_A_1600,6,smina,False,True,0.29805359,0.80022773,2.957114,0,11487,3423.7415,3.4985896e-07,6.0672643

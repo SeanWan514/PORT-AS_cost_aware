@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8103,7924,468,66,1fm8_DDC_A_501,6,smina,False,True,0.37673844,0.95532078,1.5381511,0,9699,3653.9861,0,2.0214162

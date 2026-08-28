@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+4224,4045,524,74,1fsa_F6P_B_338,6,smina,False,True,0.58475555,1.0420303,1.7007785,0,13578,7939.8109,2.1935784e-05,2.1922011

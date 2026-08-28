@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6986,6807,17462,2494,6wdv_TWM_A_701,4,gnina,False,True,0.59105253,0.73600211,5.8939438,0,9843,5817.73,0.94020952,4.2193777

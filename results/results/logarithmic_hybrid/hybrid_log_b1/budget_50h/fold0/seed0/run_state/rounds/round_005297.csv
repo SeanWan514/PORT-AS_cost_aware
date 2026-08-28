@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5476,5297,13481,1925,5tde_FLC_A_501,6,smina,False,True,0.41660086,1.0140757,1.3608805,0,12326,5135.0222,0.036615954,1.6497067

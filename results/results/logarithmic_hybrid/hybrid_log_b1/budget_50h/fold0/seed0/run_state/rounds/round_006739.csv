@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6918,6739,13538,1934,5tix_OQR_B_302,0,surfdock,True,True,0.74521718,1.117019,3.6280973,0,10884,8110.9438,0,3.5958046

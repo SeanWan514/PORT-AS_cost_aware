@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9743,9564,9189,1312,4m2c_DAR_D_402,5,autodock,True,False,0.6041456,0.62189012,20.861921,0,6068,3665.9555,0.87453292,12.524318

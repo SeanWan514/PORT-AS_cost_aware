@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1240,1061,17056,2436,6svu_BEN_A_302,4,gnina,False,True,0.48397737,0.93062039,2.0113733,0,16562,8015.6332,0.99395164,2.6073303

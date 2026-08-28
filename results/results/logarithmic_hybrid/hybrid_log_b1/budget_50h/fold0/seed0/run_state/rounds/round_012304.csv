@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+12483,12304,7310,1044,4bbx_LKF_B_1760,2,diffdock,True,False,0.5208497,0.55811062,32.70208,0,870,453.13924,0,38.494492

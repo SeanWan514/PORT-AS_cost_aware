@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2191,2012,9652,1378,4pik_MAN_C_503,6,smina,False,True,0.56773967,1.1581498,0.94930404,0,15611,8862.984,0.99424236,0.8916094

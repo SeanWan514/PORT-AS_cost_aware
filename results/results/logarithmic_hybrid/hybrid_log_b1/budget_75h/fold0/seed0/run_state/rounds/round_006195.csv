@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6374,6195,1980,282,1okm_SAB_A_555,6,smina,False,True,0.57527148,1.438529,1.6784656,0,11428,6574.2024,0,4.1404206

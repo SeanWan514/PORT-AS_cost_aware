@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7949,7770,7476,1068,4ccu_AWF_A_1500,0,surfdock,False,True,0.52465404,0.64799073,7.7751627,0,6548,3435.4346,0.9827705,4.5617677

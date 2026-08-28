@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7818,7639,14965,2137,6cwr_6LA_A_201,6,smina,False,True,0.47203442,1.0288764,2.1745901,0,9984,4712.7916,0.98292288,2.4983092

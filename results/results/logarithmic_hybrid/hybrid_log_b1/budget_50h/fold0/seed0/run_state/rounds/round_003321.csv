@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3500,3321,5054,722,2qui_LTN_A_501,0,surfdock,False,True,0.56678832,0.92265287,3.2999008,0,14302,8106.2065,0,3.1416823

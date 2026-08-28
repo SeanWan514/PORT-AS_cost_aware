@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5549,5370,11269,1609,5ddu_PMP_A_601,6,smina,False,True,0.3495751,0.80976021,2.4319832,0,12253,4283.3437,0.024633794,3.0889532

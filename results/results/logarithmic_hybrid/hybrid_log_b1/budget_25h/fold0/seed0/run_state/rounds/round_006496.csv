@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6675,6496,7403,1057,4bz6_SHH_A_700,4,gnina,True,True,0.82231921,0.89619764,6.1076851,0,9808,8065.3068,1.3235952e-05,6.3955821

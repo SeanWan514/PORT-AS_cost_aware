@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+13890,13711,1472,210,1kwc_BPY_B_401,2,diffdock,True,True,0.63048113,0.60102667,29.391375,0,1137,716.85704,0.98743986,17.583537

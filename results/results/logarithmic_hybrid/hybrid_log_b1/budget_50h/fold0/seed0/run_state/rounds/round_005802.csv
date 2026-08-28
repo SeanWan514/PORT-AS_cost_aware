@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5981,5802,7041,1005,3zzm_JLN_A_1526,6,smina,False,True,0.5380899,1.0440347,2.546428,0,11821,6360.7607,1.4604829e-07,6.8669305

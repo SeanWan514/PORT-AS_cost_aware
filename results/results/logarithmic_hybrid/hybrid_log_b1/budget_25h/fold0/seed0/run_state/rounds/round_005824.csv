@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6003,5824,2422,346,1sjc_SMG_B_1100,0,surfdock,False,True,0.56405199,0.78811102,4.5704398,0,11799,6655.2495,0.97844694,3.5033967

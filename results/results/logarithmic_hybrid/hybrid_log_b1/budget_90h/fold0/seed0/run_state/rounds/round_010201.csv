@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10380,10201,1328,189,1jyx_IPT_A_2002,5,autodock,True,False,0.43928547,0.55811062,29.10231,0,5458,2397.6201,0.00045190446,14.268797

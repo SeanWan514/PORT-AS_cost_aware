@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9376,9197,1322,188,1jyx_IPT_A_2001,6,smina,True,False,0.83180416,1.1570542,4.0646687,0,8426,7008.7819,0.98760474,1.6057546

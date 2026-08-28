@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8262,8083,5368,766,2vp5_DCZ_B_1210,6,smina,False,True,0.29526329,1.2569896,1.9285015,0,9540,2816.8118,0,2.2247788

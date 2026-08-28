@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7643,7464,17219,2459,6to7_SUV_B_401,6,smina,False,True,0.26993215,0.75207699,4.6765771,0,10159,2742.2407,0,7.5228022

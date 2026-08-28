@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5373,5194,1162,166,1j0n_CEG_A_780,0,surfdock,False,True,0.56622429,1.0159403,3.5013738,0,12429,7037.6017,0,2.8505759

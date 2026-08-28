@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+14639,14460,6712,958,3wat_BMA_B_404,6,smina,False,True,0.15114042,0.56905778,1.712128,0,3163,478.05715,0.013965045,0.8050132

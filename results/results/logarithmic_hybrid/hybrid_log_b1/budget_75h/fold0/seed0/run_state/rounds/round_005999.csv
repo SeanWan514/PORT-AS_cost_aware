@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6178,5999,8425,1203,4hoz_GLC_A_703,4,gnina,False,True,0.51876812,1.2612992,2.5937998,0,11624,6030.1606,0.97618737,1.9280447

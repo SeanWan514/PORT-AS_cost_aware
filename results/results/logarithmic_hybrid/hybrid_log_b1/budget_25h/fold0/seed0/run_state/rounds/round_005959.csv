@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6138,5959,8761,1251,4itu_1HS_D_302,4,gnina,False,True,0.43333997,0.77608367,3.4956861,0,11664,5054.4774,0.935659,2.9405659

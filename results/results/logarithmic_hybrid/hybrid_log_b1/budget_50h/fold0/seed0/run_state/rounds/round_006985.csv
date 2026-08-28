@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7164,6985,14846,2120,6bxk_MTA_B_401,6,smina,False,True,0.30731792,1.0592388,1.690823,0,10638,3269.248,6.9483617e-05,4.0385392

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6002,5823,2435,347,1sjc_SMG_D_1300,6,smina,False,True,0.31104486,0.81012315,2.6644313,0,11800,3670.3293,0.63719531,2.5827368

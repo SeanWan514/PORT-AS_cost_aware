@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+742,563,16849,2407,6rbo_JXQ_A_302,0,surfdock,False,True,0.53869188,1.0306029,2.3995655,0,17060,9190.0836,0.77378289,2.9805958

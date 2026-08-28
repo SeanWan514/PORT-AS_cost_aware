@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6313,6134,6404,914,3ucl_CYH_A_543,6,smina,False,True,0.30329545,1.0526426,0.9336977,0,11489,3484.5614,0.00010864387,0.44438181

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5296,5117,1813,259,1nme_159_B_9002,0,surfdock,True,True,0.76006357,1.1225694,3.4041076,0,12506,9505.355,0.97329797,2.8796639

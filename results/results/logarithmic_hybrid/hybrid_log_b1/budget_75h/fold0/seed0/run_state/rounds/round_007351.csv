@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7530,7351,979,139,1hdi_3PG_A_419,6,smina,False,True,0.39467839,0.95477423,1.4326761,0,10272,4054.1364,0.044621543,1.217632

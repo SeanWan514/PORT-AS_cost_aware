@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6109,5930,9790,1398,4r2n_PHE_C_402,4,gnina,False,True,0.43368044,0.77655801,3.5025403,0,11693,5071.0254,0.00033469632,3.7266011

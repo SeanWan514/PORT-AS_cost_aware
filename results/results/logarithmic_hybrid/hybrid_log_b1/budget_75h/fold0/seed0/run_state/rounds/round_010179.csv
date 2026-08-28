@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10358,10179,3268,466,1zjp_DR4_A_1,6,smina,False,True,0.26046143,0.9261819,2.7210543,0,7444,1938.8749,0.890226,8.9878228

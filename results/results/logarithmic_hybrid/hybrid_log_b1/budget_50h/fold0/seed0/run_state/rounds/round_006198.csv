@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6377,6198,4312,616,2htu_BCZ_A_801,0,surfdock,False,True,0.6418529,1.042402,3.6362588,0,11425,7333.1694,0,3.8575939

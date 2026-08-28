@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10100,9921,13362,1908,5syi_NIZ_A_805,6,smina,False,True,0.36875919,1.1416734,1.5999988,0,7702,2840.1833,0,0.8748719

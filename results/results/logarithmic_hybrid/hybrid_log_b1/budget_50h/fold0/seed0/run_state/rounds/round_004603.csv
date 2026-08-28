@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+4782,4603,6698,956,3wat_BGC_B_403,6,smina,False,True,0.43404376,0.97191874,1.2394018,0,13020,5651.2497,6.5421146e-05,1.1658338

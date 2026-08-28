@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1086,907,1176,168,1j0y_BGC_B_2601,0,surfdock,False,True,0.73692391,1.1649961,4.178916,0,16716,12318.42,0.9543416,2.6449362

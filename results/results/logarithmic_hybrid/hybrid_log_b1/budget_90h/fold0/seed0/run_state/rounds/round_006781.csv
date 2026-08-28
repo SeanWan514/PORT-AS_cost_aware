@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6960,6781,1369,195,1kar_HSM_B_503,4,gnina,True,False,0.48791307,1.2600183,3.3423669,0,10842,5289.9535,3.8082026e-06,2.4403294

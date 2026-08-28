@@ -1,0 +1,3 @@
+flat_index,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,ranking_value,selected
+872,False,True,0.57338147,1.1214809,4.283957,0,10686,6127.1544,6127.1544,True
+3547,True,False,0.60730143,0.5842429,24.014227,0,7696,4673.7918,4673.7918,False

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+16609,16430,4476,639,2jhp_GUN_A_1647,3,diffdock_l,False,True,0.067223946,0.70081204,16.49328,0,708,47.594554,2.614925e-25,24.356187

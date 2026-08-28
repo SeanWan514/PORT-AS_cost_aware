@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3715,3536,3947,563,2evd_D10_A_304,6,smina,False,True,0.30968494,0.83575706,1.333658,0,14087,4362.5318,0,1.006139

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2186,2007,2050,292,1p2s_ETF_A_400,6,smina,False,True,0.31571534,0.83701441,0.67186725,0,15616,4930.2108,0.10524747,0.43564666

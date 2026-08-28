@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+15760,15581,10678,1525,4zsy_RW2_B_502,3,diffdock_l,True,False,0.16634842,0.55811062,40.112476,0,829,137.90284,0,56.370157

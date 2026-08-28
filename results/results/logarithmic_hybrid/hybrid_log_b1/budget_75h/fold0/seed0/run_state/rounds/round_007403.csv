@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7582,7403,7649,1092,4cme_KTZ_D_1270,5,autodock,True,False,0.592777,0.61718417,20.978386,0,8427,4995.3317,0,10.963824

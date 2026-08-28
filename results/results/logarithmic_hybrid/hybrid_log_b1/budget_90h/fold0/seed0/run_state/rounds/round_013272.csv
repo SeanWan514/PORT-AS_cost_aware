@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+13451,13272,10128,1446,4v36_LYN_A_1851,6,smina,False,True,0.17965352,0.57310652,1.6693898,0,4351,781.67245,1.9726198e-09,1.9193881

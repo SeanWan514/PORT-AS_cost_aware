@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9756,9577,5899,842,2zi2_24U_H_801,5,autodock,True,False,0.47524952,0.62798599,20.354126,0,6213,2952.7253,0,11.413152

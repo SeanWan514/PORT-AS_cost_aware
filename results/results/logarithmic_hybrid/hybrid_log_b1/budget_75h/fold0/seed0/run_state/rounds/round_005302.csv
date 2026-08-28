@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5481,5302,153,21,1axg_ETF_B_404,6,smina,True,True,0.70224458,1.442695,2.1351149,0,12321,8652.3555,0.97820694,0.71939019

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+16465,16286,10993,1570,5awd_IDQ_A_901,3,diffdock_l,True,False,0.10647529,0.62463978,31.183193,0,526,56.006002,0,32.094383

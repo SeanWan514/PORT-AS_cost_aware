@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1467,1288,9874,1410,4rql_SNE_A_505,4,gnina,False,True,0.57516581,0.98107523,2.5448987,0,16335,9395.3335,0.0066785632,2.7942237

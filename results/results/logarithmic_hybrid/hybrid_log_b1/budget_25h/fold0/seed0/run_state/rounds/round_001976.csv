@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2155,1976,9561,1365,4ox5_DAL_A_307,6,smina,False,True,0.32381147,0.83985708,0.67940164,0,15647,5066.678,0.59426775,0.58673516

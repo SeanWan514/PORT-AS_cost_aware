@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2387,2208,3254,464,1zha_PEP_B_2268,6,smina,False,True,0.2873403,0.84623926,0.92589098,0,15415,4429.3507,0.0032420671,1.0086472

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8903,8724,11345,1620,5dne_ASN_A_601,5,autodock,True,False,0.65333109,0.58239719,25.157396,0,8142,5319.4217,0.99691052,15.929257

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8342,8163,15014,2144,6dmi_5T5_A_504,6,smina,False,True,0.32460127,1.0814517,2.5067103,0,9460,3070.728,0,5.9005415

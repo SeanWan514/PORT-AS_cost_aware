@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7501,7322,2912,416,1w78_PD8_A_1421,0,surfdock,False,True,0.6583982,1.0581246,3.9761307,0,10301,6782.1599,0,5.7886982

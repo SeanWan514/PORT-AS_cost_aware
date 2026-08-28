@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6149,5970,13405,1915,5tbo_78Z_A_1001,0,surfdock,False,True,0.56137394,0.77435276,4.8018012,0,11653,6541.6906,0.97538858,4.3741434

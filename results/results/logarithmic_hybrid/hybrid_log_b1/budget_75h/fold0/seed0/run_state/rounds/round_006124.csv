@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6303,6124,11731,1675,5fay_CHT_A_908,6,smina,False,True,0.58561537,1.4395585,1.7120881,0,11499,6733.9911,0,0.79423688

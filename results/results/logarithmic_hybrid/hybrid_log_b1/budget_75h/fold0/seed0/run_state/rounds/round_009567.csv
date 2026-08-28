@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9746,9567,1903,271,1o28_UFP_B_708,6,smina,False,True,0.3456388,1.050288,2.2167375,0,8056,2784.4662,0.00044210494,3.2321504

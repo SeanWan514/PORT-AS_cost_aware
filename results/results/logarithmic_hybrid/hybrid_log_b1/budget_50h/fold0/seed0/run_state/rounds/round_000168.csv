@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+347,168,6006,858,2zyv_NPO_X_1601,0,surfdock,False,True,0.56816929,1.1389067,1.6495383,0,17455,9917.3949,0,3.0273176

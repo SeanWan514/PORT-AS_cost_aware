@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3770,3591,5408,772,2w1a_TSA_C_1091,4,gnina,False,True,0.65906779,0.85961203,3.3482416,0,14032,9248.0393,0.99227351,2.8757245

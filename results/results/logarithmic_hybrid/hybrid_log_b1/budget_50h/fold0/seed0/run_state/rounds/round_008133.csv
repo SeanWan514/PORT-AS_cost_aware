@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8312,8133,10689,1527,4zsy_RW2_D_502,0,surfdock,True,False,0.66406584,1.005141,5.2591863,0,9490,6301.9848,0,4.4039708

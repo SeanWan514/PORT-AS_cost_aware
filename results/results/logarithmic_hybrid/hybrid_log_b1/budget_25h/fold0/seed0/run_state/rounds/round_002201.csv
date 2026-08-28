@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2380,2201,9813,1401,4rcv_DE2_A_403,6,smina,False,True,0.36919529,0.84615552,1.0956938,0,15422,5693.7297,0.98782625,0.63259898

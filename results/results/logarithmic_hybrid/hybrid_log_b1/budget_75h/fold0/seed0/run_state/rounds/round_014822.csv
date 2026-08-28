@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+15001,14822,17607,2515,6zac_QDE_A_4000,2,diffdock,True,True,0.52897464,0.5788385,34.414665,0,179,94.686461,0.96446002,43.910804

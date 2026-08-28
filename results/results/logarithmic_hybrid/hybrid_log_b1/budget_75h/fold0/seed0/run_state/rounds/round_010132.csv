@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10311,10132,3835,547,2dv0_ZST_A_600,6,smina,False,True,0.47486429,1.1740561,3.2676258,0,7491,3557.2084,0,6.3994189

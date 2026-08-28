@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10052,9873,8461,1208,4hzf_CMP_A_302,5,autodock,True,False,0.46507744,0.6016465,22.688902,0,5323,2475.6072,0,11.438643

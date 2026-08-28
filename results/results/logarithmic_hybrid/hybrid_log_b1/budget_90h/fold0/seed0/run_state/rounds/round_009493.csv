@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9672,9493,2995,427,1xdj_HCS_A_1049,6,smina,False,True,0.4093713,1.1533807,1.553117,0,8130,3328.1887,0.43332523,0.90537059

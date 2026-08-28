@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+2520,2341,2771,395,1uxi_FUM_B_1311,6,smina,False,True,0.35479484,0.81760112,1.1437777,0,15282,5421.9748,0,0.79067833

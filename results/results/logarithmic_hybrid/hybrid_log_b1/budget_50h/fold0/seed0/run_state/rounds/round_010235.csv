@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10414,10235,15724,2246,6jmd_ORO_A_402,2,diffdock,False,True,0.26905235,0.58492971,18.423262,0,4337,1166.88,1.6418005e-05,20.292595

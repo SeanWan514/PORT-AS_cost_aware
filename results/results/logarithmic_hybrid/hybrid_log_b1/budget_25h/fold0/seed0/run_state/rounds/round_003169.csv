@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3348,3169,3464,494,2ahc_VNL_D_466,6,smina,False,True,0.31997016,0.84809785,1.2003781,0,14454,4624.8487,0,1.1553193

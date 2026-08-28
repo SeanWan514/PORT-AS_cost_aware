@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6900,6721,6682,954,3w8x_FTK_A_601,4,gnina,True,False,0.49009614,1.2167211,3.7452474,0,10902,5343.0281,4.2572477e-05,3.5258255

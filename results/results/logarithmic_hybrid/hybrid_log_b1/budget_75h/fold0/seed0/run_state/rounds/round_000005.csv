@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+184,5,17283,2469,6tt4_FT8_B_711,0,surfdock,True,False,1,1.0901054,6.7955689,0,17618,17618,0.43769216,3.9702784

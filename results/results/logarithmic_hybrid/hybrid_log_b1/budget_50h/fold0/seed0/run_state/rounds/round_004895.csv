@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5074,4895,3086,440,1y42_TYR_X_701,6,smina,False,True,0.37000418,0.99600239,1.2489922,0,12728,4709.4132,3.968174e-06,1.6961852

@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7261,7082,11724,1674,5faj_DCS_D_401,6,smina,False,True,0.27842895,0.77895551,3.9315999,0,10541,2934.9196,0.98276286,3.9019619

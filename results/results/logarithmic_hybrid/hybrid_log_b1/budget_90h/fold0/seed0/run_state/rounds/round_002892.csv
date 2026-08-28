@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+3071,2892,6356,908,3tyn_CXW_B_800,0,surfdock,True,True,0.76807549,1.230644,3.733361,0,14731,11314.52,0,3.8819488

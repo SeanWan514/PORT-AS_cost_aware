@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9242,9063,16839,2405,6r73_LMP_B_301,4,gnina,True,False,0.69804022,0.97711426,5.7813754,0,8560,5975.2243,0.051271179,6.8898822

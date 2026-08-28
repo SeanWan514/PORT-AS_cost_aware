@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+4396,4217,17226,2460,6tof_NQE_A_201,6,smina,False,True,0.29498893,0.82126313,1.6589191,0,13406,3954.6216,0,2.0506361

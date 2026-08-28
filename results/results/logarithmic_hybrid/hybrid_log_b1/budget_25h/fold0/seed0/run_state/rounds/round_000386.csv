@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+565,386,15253,2179,6fld_NAG_A_603,0,surfdock,False,True,0.53793646,1.0710514,2.6279593,0,17237,9272.4108,0,2.4289316

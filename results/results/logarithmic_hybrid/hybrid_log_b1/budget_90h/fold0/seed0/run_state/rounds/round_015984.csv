@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+16163,15984,3566,509,2bf7_HBI_B_1290,3,diffdock_l,False,True,0.11003874,0.61709586,25.312136,0,937,103.1063,6.5316407e-28,37.910757

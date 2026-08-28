@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+16569,16390,16215,2316,6nba_P1T_B_501,3,diffdock_l,True,False,0.10732559,0.58449077,37.178787,0,367,39.38849,0,54.641906

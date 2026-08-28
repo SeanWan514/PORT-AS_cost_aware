@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6685,6506,16261,2323,6nga_KL7_A_803,0,surfdock,False,True,0.555106,0.74851039,5.3106799,0,11117,6171.1135,0,3.5969197

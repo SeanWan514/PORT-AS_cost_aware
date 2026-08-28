@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8395,8216,4918,702,2qcx_PF1_A_300,4,gnina,False,True,0.45025429,1.0757954,3.4299748,0,9407,4235.5421,0.35760892,2.754275

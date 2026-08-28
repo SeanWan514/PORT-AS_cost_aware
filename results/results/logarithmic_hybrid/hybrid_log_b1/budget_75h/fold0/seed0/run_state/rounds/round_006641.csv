@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6820,6641,9566,1366,4oxy_1TN_A_302,4,gnina,False,True,0.55694684,1.1216577,4.2616081,0,10982,6116.3902,5.4457692e-05,5.4967967

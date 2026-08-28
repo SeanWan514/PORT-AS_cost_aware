@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8514,8335,5074,724,2qvr_FDP_A_333,6,smina,False,True,0.4009865,1.1542222,2.1642439,0,9288,3724.3627,4.223438e-06,3.0543688

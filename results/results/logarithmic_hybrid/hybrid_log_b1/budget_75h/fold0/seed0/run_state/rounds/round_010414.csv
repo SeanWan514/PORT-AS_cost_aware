@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10593,10414,7250,1035,4aql_TXC_A_1452,5,autodock,True,False,0.47395571,0.58966513,23.866375,0,4655,2206.2638,0,12.944977

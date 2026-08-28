@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6378,6199,7930,1132,4dt8_ADN_B_401,6,smina,False,True,0.56927524,1.4385276,1.6786674,0,11424,6503.4004,0.00070465027,1.934692

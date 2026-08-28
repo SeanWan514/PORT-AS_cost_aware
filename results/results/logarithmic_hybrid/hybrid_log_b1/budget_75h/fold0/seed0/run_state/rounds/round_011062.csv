@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11241,11062,17792,2541,8cpp_TCM_A_422,5,autodock,False,True,0.23034654,0.70068463,10.246799,0,6561,1511.3036,0,2.8335515

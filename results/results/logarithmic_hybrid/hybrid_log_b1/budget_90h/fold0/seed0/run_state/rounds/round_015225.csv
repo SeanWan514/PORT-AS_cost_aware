@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+15404,15225,59,8,1aer_TIA_B_700,3,diffdock_l,False,True,0.13143299,0.58593795,21.67173,0,1955,256.9515,0.16579831,19.795724

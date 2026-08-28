@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10021,9842,17609,2515,6zac_QDE_A_4000,4,gnina,False,True,0.37416507,0.96920208,4.9075351,0,7781,2911.3784,0.96881303,7.7968864

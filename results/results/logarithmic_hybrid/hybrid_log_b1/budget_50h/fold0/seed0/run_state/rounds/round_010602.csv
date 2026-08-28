@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10781,10602,436,62,1eyw_TEN_A_403,2,diffdock,False,True,0.26604955,0.57099185,23.472239,0,3045,810.12088,0,30.149476

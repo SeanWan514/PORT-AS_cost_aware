@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1922,1743,1852,264,1now_IFG_B_558,4,gnina,False,True,0.61415142,0.91194209,2.9920547,0,15880,9752.7246,0.99245148,2.9619459

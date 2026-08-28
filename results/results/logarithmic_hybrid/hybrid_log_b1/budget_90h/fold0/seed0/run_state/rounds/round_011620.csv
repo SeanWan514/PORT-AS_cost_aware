@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+11799,11620,2012,287,1ovk_NYL_A_405,3,diffdock_l,False,True,0.27934576,0.60560763,23.976051,0,5506,1538.0778,0.9959169,24.309909

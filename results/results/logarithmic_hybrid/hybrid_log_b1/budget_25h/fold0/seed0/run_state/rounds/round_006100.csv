@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+6279,6100,16898,2414,6rgg_K3Q_B_402,0,surfdock,False,True,0.55953933,0.76814252,4.9093065,0,11523,6447.5717,0.0071367634,3.5844502

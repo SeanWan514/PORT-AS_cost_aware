@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1002,823,13908,1986,5vyr_B62_A_301,6,smina,False,True,0.68241345,1.2341685,1.0953332,0,16800,11464.546,0,0.84982806

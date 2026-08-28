@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+7248,7069,3611,515,2brk_CMF_A_1534,6,smina,False,True,0.27931685,0.77213806,4.0238147,0,10554,2947.91,0,11.238423

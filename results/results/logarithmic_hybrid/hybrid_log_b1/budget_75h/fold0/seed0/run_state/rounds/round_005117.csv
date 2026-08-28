@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5296,5117,172,24,1bqp_MAN_B_401,4,gnina,False,True,0.47372313,1.3508837,2.8085556,0,12506,5924.3814,0.99689744,1.8551375

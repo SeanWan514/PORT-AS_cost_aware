@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+5018,4839,13069,1867,5mzj_TEP_A_2401,0,surfdock,True,False,0.62461447,1.3648078,2.7047362,0,12784,7985.0714,0.99759144,2.6419047

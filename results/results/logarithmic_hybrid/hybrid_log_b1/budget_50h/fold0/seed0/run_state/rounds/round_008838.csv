@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9017,8838,14077,2011,5x23_LSN_A_504,0,surfdock,False,True,0.64228453,1.0199534,5.0007353,0,8785,5642.4696,0.05913547,4.4571975

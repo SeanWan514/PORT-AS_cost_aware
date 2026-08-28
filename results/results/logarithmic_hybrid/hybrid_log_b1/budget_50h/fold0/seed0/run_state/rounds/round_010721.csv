@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10900,10721,11510,1644,5eo7_SFU_A_402,2,diffdock,False,True,0.25225334,0.56637748,20.94375,0,3294,830.92249,3.5621454e-20,20.569574

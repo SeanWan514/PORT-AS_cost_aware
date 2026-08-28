@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8030,7851,1278,182,1jl0_PUT_A_401,4,gnina,False,True,0.43521887,0.93227028,2.8081686,0,9772,4252.9588,0.92656634,3.3126203

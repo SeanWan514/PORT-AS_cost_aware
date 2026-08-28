@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+728,549,3444,492,2ahc_VNL_A_166,0,surfdock,False,True,0.53446753,1.0625081,2.7171719,0,17074,9125.4987,0.14034678,2.764443

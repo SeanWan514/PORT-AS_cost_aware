@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+10368,10189,2029,289,1oxp_IK2_A_411,6,smina,False,True,0.26478511,0.92411991,2.9942222,0,7434,1968.4125,6.5273528e-07,3.9309324

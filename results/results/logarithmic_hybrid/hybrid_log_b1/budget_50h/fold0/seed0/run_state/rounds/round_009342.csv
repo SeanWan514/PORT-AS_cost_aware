@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+9521,9342,6124,874,3rgz_BLD_A_800,6,smina,False,True,0.48977477,1.1157108,3.703896,0,8281,4055.8249,0.98551077,4.8833064

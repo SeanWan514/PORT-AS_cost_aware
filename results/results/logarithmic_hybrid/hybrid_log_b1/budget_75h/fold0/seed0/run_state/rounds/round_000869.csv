@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+1048,869,2044,292,1p2s_ETF_A_400,0,surfdock,False,True,0.52251826,1.0905838,2.6431601,0,16754,8754.271,0,1.9618461

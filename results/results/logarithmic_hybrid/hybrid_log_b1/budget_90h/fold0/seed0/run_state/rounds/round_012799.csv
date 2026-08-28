@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+12978,12799,11416,1630,5dw3_TRP_C_402,6,smina,False,True,0.19884588,0.58581436,2.6017661,0,4824,959.23251,0.35183236,1.5361821

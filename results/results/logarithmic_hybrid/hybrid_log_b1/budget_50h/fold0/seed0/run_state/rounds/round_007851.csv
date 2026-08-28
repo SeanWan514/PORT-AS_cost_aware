@@ -1,0 +1,2 @@
+query_order,round,flat_index,row_index,row_label,algorithm_index,algorithm,proposed_by_mu,proposed_by_ca,utility,cost_acquisition,predicted_runtime_mean,predicted_runtime_sd,affordable_repetitions,projected_gain,score,runtime
+8030,7851,17213,2459,6to7_SUV_B_401,0,surfdock,True,False,0.74888295,1.0397489,4.7431207,0,9772,7318.0842,0,4.8451533
